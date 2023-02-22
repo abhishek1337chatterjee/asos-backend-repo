@@ -2,6 +2,7 @@ const express = require('express');
 const { men } = require('../db');
 const { ManJeansmodel } = require('../Models/MenJeans.model');
 const { Manmodel } = require('../Models/Mens.model');
+const { TopMenmodel } = require('../Models/TopsMen.model');
 
 
 
@@ -20,17 +21,10 @@ menRouter.get("/", async (req, res) => {
     }
 })
 
-// menRouter.post("/jeanstrouser", async (req, res) => {
-//     try {
-//         for(let i = 0; i < men.length; i++) {
-//             const jeans = new ManJeansmodel(men[i]);
-//             await jeans.save();
-//         }
-//         res.send({msg: "Success"});
-//     } catch (error) {
-//         res.send({msg: "Error inserting",error: error.message});
-//     }
-// })
+
+
+
+
 
 menRouter.get("/jeanstrouser", async (req, res) => {
     try {
@@ -38,10 +32,18 @@ menRouter.get("/jeanstrouser", async (req, res) => {
         const jeans = await ManJeansmodel.find();
         res.send(jeans);
     } catch (error) {
-        res.send({msg: "Error inserting",error: error.message});
+        res.send({msg: "not getting the data",error: error.message});
     }
 })
 
+menRouter.get("/topmen", async (req, res) => {
+    try {
+        const top = await TopMenmodel.find();
+        res.send(top);
+    } catch (error) {
+        res.send({msg: "not getting the data",error: error.message})
+    }
+})
 
 
 
