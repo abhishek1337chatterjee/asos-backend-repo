@@ -13,19 +13,19 @@ app.use(cors({
 }))
 
 const dotenv = require('dotenv');
+const { connection } = require('./configs/db');
 
 dotenv.config();
 
 
 
 
-
-app.listen(process.env.port, ()=>{
-    // try {
-    //     await connection;
-    //     console.log("Connected to DB");
-    // } catch (error) {
-    //     console.log(error);
-    // }
+app.listen(process.env.port, async()=>{
+    try {
+        await connection;
+        console.log("Connected to DB");
+    } catch (error) {
+        console.log(error);
+    }
     console.log(`listening on port ${process.env.port}`);
 })
