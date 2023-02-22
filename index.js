@@ -17,7 +17,9 @@ const { connection } = require('./configs/db');
 
 dotenv.config();
 
-
+app.get("/", (req, res) => {
+    res.send("Welcome to ASOS database");
+})
 
 
 app.listen(process.env.port, async()=>{
