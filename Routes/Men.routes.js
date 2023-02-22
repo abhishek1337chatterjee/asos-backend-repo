@@ -1,5 +1,5 @@
 const express = require('express');
-const { men } = require('../db');
+const { KnightwearManmodel } = require('../Models/KnightwearMen.model');
 const { ManJeansmodel } = require('../Models/MenJeans.model');
 const { Manmodel } = require('../Models/Mens.model');
 const { TopMenmodel } = require('../Models/TopsMen.model');
@@ -45,6 +45,24 @@ menRouter.get("/topmen", async (req, res) => {
     }
 })
 
+
+// menRouter.post("/knightwearmen", async(req, res) => {
+//     try {
+//         const knight = await KnightwearManmodel.insertMany(req.body.data);
+//         res.send({msg: "Successfully inserted"});
+//     } catch (error) {
+//         res.send({msg: "not getting the data",error: error.message})
+//     }
+// })
+
+// menRouter.post("/knightwearmen", async(req, res) => {
+//     try {
+//         const knight = await KnightwearManmodel.insertMany(req.body.data);
+//         res.send({msg: "Successfully inserted"});
+//     } catch (error) {
+//         res.send({msg: "not getting the data",error: error.message})
+//     }
+// })
 
 
 module.exports = {
