@@ -35,7 +35,7 @@ menRouter.get("/", async (req, res) => {
 menRouter.get("/jeanstrouser", async (req, res) => {
     try {
         
-            const jeans = await ManJeansmodel.find();
+        const jeans = await ManJeansmodel.find();
         res.send(jeans);
     } catch (error) {
         res.send({msg: "Error inserting",error: error.message});
