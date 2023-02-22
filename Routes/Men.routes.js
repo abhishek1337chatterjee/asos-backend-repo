@@ -11,19 +11,15 @@ const menRouter = express.Router();
 
 
 
-
 menRouter.get("/", async (req, res) => {
-    try {
-        const menData = await Manmodel.find();
-        res.send(menData);
-    } catch (error) {
-        res.send({msg: "Error inserting",error: error.message});
+    const {search,min,max} = req.query
+    try{
+        let data = await Manmodel.find({$and:[{ProductName:{$regex:search, $options: 'i'}},{price:{$gte:min}},{price:{$lte:max}}]})
+        res.send(data)
+    }catch(err){
+        console.log('err:', err)
     }
 })
-
-
-
-
 
 
 menRouter.get("/jeanstrouser", async (req, res) => {
@@ -46,14 +42,14 @@ menRouter.get("/topmen", async (req, res) => {
 })
 
 
-// menRouter.post("/knightwearmen", async(req, res) => {
-//     try {
-//         const knight = await KnightwearManmodel.insertMany(req.body.data);
-//         res.send({msg: "Successfully inserted"});
-//     } catch (error) {
-//         res.send({msg: "not getting the data",error: error.message})
-//     }
-// })
+menRouter.post("/try", async(req, res) => {
+    try {
+        // const knight = await Manmodel.insertMany(req.body.data);
+        res.send({msg: "Successfully inserted"});
+    } catch (error) {
+        res.send({msg: "not getting the data",error: error.message})
+    }
+})
 
 menRouter.get("/knightwearmen", async(req, res) => {
     try {
