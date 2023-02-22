@@ -55,14 +55,14 @@ menRouter.get("/topmen", async (req, res) => {
 //     }
 // })
 
-// menRouter.post("/knightwearmen", async(req, res) => {
-//     try {
-//         const knight = await KnightwearManmodel.insertMany(req.body.data);
-//         res.send({msg: "Successfully inserted"});
-//     } catch (error) {
-//         res.send({msg: "not getting the data",error: error.message})
-//     }
-// })
+menRouter.get("/knightwearmen", async(req, res) => {
+    try {
+        const knight = await KnightwearManmodel.find();
+        res.send({knight})
+    } catch (error) {
+        res.send({msg: "not getting the data",error: error.message})
+    }
+})
 
 
 module.exports = {
