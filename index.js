@@ -14,6 +14,7 @@ app.use(cors({
 
 const dotenv = require('dotenv');
 const { connection } = require('./configs/db');
+const { menRouter } = require('./Routes/Men.routes');
 
 dotenv.config();
 
@@ -21,6 +22,7 @@ app.get("/", (req, res) => {
     res.send("Welcome to ASOS database");
 })
 
+app.use("/men", menRouter)
 
 app.listen(process.env.port, async()=>{
     try {
