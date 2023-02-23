@@ -140,6 +140,16 @@ menRouter.delete("/:id", async (req, res) => {
     
 })
 
+menRouter.post("/try", async (req, res) => {
+    let payload = req.body.data
+    try{
+        let data = MenBlackModel.insertMany(payload)
+        res.send("Data Sent successfully!")
+    }catch(err){
+        console.log('err:', err)
+    }
+})
+
 
 module.exports = {
     menRouter
