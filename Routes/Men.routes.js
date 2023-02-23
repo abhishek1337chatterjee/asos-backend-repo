@@ -25,7 +25,7 @@ menRouter.get("/", async (req, res) => {
 menRouter.get("/black", async (req, res) => {
     const {min,max} = req.query
     try{
-        let data = await MenModel.find({$and:[{price:{$gte:min}},{price:{$lte:max}}]})
+        let data = await MenBlackModel.find({$and:[{price:{$gte:min}},{price:{$lte:max}}]})
         res.send(data)
     }catch(err){
         console.log('err:', err)
@@ -34,7 +34,7 @@ menRouter.get("/black", async (req, res) => {
 menRouter.get("/green", async (req, res) => {
     const {min,max} = req.query
     try{
-        let data = await MenModel.find({$and:[{price:{$gte:min}},{price:{$lte:max}}]})
+        let data = await MenGreenModel.find({$and:[{price:{$gte:min}},{price:{$lte:max}}]})
         res.send(data)
     }catch(err){
         console.log('err:', err)
@@ -43,7 +43,7 @@ menRouter.get("/green", async (req, res) => {
 menRouter.get("/red", async (req, res) => {
     const {min,max} = req.query
     try{
-        let data = await MenModel.find({$and:[{price:{$gte:min}},{price:{$lte:max}}]})
+        let data = await MenRedModel.find({$and:[{price:{$gte:min}},{price:{$lte:max}}]})
         res.send(data)
     }catch(err){
         console.log('err:', err)
