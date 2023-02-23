@@ -55,6 +55,7 @@ womenRouter.post("/", async (req, res) => {
         await data.save();
         res.send("Data Sent successfully!")
     }catch(err){
+        res.send(err.message)
         console.log('err:', err)
     }
 })
@@ -65,6 +66,7 @@ womenRouter.patch("/:id", async (req, res) => {
         let data = await WomenModel.findByIdAndUpdate({_id:ID},payload)
         res.send("Data Updated successfully!")
     }catch(err){
+        res.send(err.message)
         console.log('err:', err)
     }
 })
@@ -74,6 +76,7 @@ womenRouter.delete("/:id", async (req, res) => {
         let data = await WomenModel.findByIdAndDelete({_id:ID})
         res.send("Data Deleted successfully!")
     }catch(err){
+        res.send(err.message)
         console.log('err:', err)
     }
 })

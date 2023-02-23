@@ -19,6 +19,7 @@ menRouter.get("/", async (req, res) => {
         let data = await MenModel.find({$and:[{product:{$regex:search, $options: 'i'}},{price:{$gte:min}},{price:{$lte:max}}]})
         res.send(data)
     }catch(err){
+        res.send(err.message)
         console.log('err:', err)
     }
 })
@@ -28,6 +29,7 @@ menRouter.get("/black", async (req, res) => {
         let data = await MenBlackModel.find({$and:[{price:{$gte:min}},{price:{$lte:max}}]})
         res.send(data)
     }catch(err){
+        res.send(err.message)
         console.log('err:', err)
     }
 })
@@ -37,6 +39,7 @@ menRouter.get("/green", async (req, res) => {
         let data = await MenGreenModel.find({$and:[{price:{$gte:min}},{price:{$lte:max}}]})
         res.send(data)
     }catch(err){
+        res.send(err.message)
         console.log('err:', err)
     }
 })
@@ -46,6 +49,7 @@ menRouter.get("/red", async (req, res) => {
         let data = await MenRedModel.find({$and:[{price:{$gte:min}},{price:{$lte:max}}]})
         res.send(data)
     }catch(err){
+        res.send(err.message)
         console.log('err:', err)
     }
 })
