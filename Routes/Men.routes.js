@@ -75,6 +75,7 @@ menRouter.get("/black", async (req, res) => {
     let {min,max} = req.query
     min=min || 1
     max=max || 10000
+    console.log(min,max)
     try{
         let data = await MenBlackModel.find({$and:[{price:{$gte:min}},{price:{$lte:max}}]})
         res.send(data)
