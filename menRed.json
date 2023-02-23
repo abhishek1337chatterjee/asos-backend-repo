@@ -1,0 +1,804 @@
+{
+    "data": [
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19023166/2023/1/24/7beef3db-e762-4b5d-92cc-0747be9dff021674554787569USPoloAssnMenRedPoloCollarPureCottonSlimFitT-shirtwithEmbroi1.jpg",
+          "brand": "U.S. Polo Assn.",
+          "product": "Men Slim Fit Cotton T-shirt",
+          "price": 1385,
+          "strike": 2199,
+          "discount": "(37% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16848074/2022/3/19/3f2dbc82-f261-4eb5-9054-6a5d12c906051647680116840-Puma-Men-Red-Brand-Logo-Printed-Essential-T-shirt-4121647680-1.jpg",
+          "brand": "Puma",
+          "product": "Men Brand Logo Printed T-shirt",
+          "price": 545,
+          "strike": 1299,
+          "discount": "(58% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/8938517/2019/4/23/609f04a4-6fe1-4759-8dfe-a665d6e146f61556008191406-Roadster-Men-Tshirts-4801556008190063-1.jpg",
+          "brand": "Roadster",
+          "product": "Men All Over Print Cotton Pure Cotton T-shirt",
+          "price": 367,
+          "strike": 799,
+          "discount": "(54% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/6149323/2018/7/19/f1be5410-dd74-44d7-a1c1-8a0d09ee27e11532002400843-Roadster-Men-Red-Solid-Polo-Collar-T-shirt-7731532002399179-1.jpg",
+          "brand": "Roadster",
+          "product": "Polo Collar Cotton T-shirt",
+          "price": 636,
+          "strike": 1299,
+          "discount": "(51% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18984036/2022/9/14/b2757b50-b104-4b1d-9911-aba14ea3f5ee1663154393930-Levis-Men-Red-Solid-Round-Neck-Pure-Cotton--T-shirt-55516631-1.jpg",
+          "brand": "Levis",
+          "product": "Men Solid T-shirt",
+          "price": 899,
+          "strike": 1499,
+          "discount": "(40% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18389670/2022/5/23/c614fa0f-8a66-4e4f-8ff4-12699befa4091653320196470JackJonesMenRedMandarinCollarT-shirt1.jpg",
+          "brand": "Jack & Jones",
+          "product": "Men Polo Collar Lounge T-shirt",
+          "price": 479,
+          "strike": 1199,
+          "discount": "(60% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17208296/2022/6/4/f4f29c0a-283f-4f3e-8959-712c459ac5791654324691530-HRX-By-Hrithik-Roshan-Basketball-Men-Racing-Red-Rapid-Dry-Br-5.jpg",
+          "brand": "HRX by Hrithik Roshan",
+          "product": "Basketball Rapid-Dry Tshirts",
+          "price": 399,
+          "strike": 1099,
+          "discount": "( 700 OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19611148/2022/8/23/9f33d7ce-ff90-42df-a59c-676d07e667231661235860415HIGHLANDERMenRedTypographyPrintedAppliqueSlimFitT-shirt1.jpg",
+          "brand": "HIGHLANDER",
+          "product": "Men Printed Slim Fit T-shirt",
+          "price": 284,
+          "strike": 949,
+          "discount": "(70% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21805896/2023/2/2/7e055913-2bb6-4a37-b379-7c40b5110df91675322603029TechnosportMenRedTshirt1.jpg",
+          "brand": "Technosport",
+          "product": "Colourblocked Active T-shirt",
+          "price": "",
+          "strike": "",
+          "discount": ""
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21796336/2023/2/1/2543a846-3226-4a32-894c-60717cb0d09c1675252401539TechnosportMenRedTshirt1.jpg",
+          "brand": "Technosport",
+          "product": "Men Antimicrobial Active Tee",
+          "price": "",
+          "strike": "",
+          "discount": ""
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18984162/2022/8/23/278cb8d5-7ac2-4041-9c6a-d8e90508761f1661246399306-T-Shirt-4821661246398857-1.jpg",
+          "brand": "Levis",
+          "product": "Men V-Neck T-shirt",
+          "price": 839,
+          "strike": 1199,
+          "discount": "(30% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2232113/2018/1/30/11517316815621-Mast--Harbour-Men-Red-Striped-Round-Neck-T-shirt-3401517316815526-1.jpg",
+          "brand": "Mast & Harbour",
+          "product": "Striped Round Neck T-shirt",
+          "price": 239,
+          "strike": 799,
+          "discount": "(70% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14047674/2022/12/8/144d2a64-1804-4758-8c8d-1cde2ee62de51670474880704LouisPhilippeMenRedPoloCollarT-shirt1.jpg",
+          "brand": "Louis Philippe",
+          "product": "Polo Collar T-shirt",
+          "price": 1044,
+          "strike": 1899,
+          "discount": "(45% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2314392/2018/5/25/32f82613-3f46-47e9-aeb0-d13a2da1af441527238279901-HRX-by-Hrithik-Roshan-Men-Red-Advanced-Rapid-Dry-Round-Neck-T-shirt-4311527238276593-1.jpg",
+          "brand": "HRX by Hrithik Roshan",
+          "product": "Rapid Dry Round Neck T-shirt",
+          "price": 399,
+          "strike": 899,
+          "discount": "( 500 OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17535032/2022/3/24/aafe16ee-6483-40ef-8fae-80e114279b591648122118227-Puma-Men-Tshirts-4991648122117871-1.jpg",
+          "brand": "Puma",
+          "product": "Men 2022 Fan Jersey",
+          "price": 779,
+          "strike": 1299,
+          "discount": "(40% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1729585/2019/11/6/0e70ef81-b312-42c1-8196-c8a8dfae1da91573043378286-WROGN-Men-Red-Solid-Polo-T-shirt-4881573043375791-1.jpg",
+          "brand": "WROGN",
+          "product": "Polo Cotton Pure Cotton T-shirt",
+          "price": 909,
+          "strike": 1399,
+          "discount": "(35% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21763564/2023/1/30/84ac9eb7-fa66-46ce-97e2-1d50821902eb1675089980690TechnosportMenRedTshirt1.jpg",
+          "brand": "Technosport",
+          "product": "Antimicrobial Active T-shirt",
+          "price": "",
+          "strike": "",
+          "discount": ""
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16740918/2022/7/15/0b8e0251-f8e3-46bf-944f-af8e4f1918611657863950931-ADIDAS-Men-Tshirts-6671657863950387-1.jpg",
+          "brand": "ADIDAS",
+          "product": "Men Typography Striped V-Neck Applique T-shirt",
+          "price": 4299,
+          "strike": 4999,
+          "discount": "(14% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14790700/2021/9/17/662d7c2c-96a8-4303-8a2c-5166e66c2a331631878928334-ADIDAS-Men-Tshirts-9041631878927741-1.jpg",
+          "brand": "ADIDAS",
+          "product": "Club 3 Stripe Polo T-shirt",
+          "price": 899,
+          "strike": 1799,
+          "discount": "(50% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19119546/2022/7/15/4808e556-fab1-4176-9187-8557f5cf9cf61657870911913TheSouledStoreMenRedTypographyArsenalExtendedSleevesApplique1.jpg",
+          "brand": "The Souled Store",
+          "product": "Men Typography T-shirt",
+          "price": 1049,
+          "strike": 1499,
+          "discount": "( 450 OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18518898/2022/7/25/8902f25e-14bd-4d30-b70b-b661ac165a721658728492805-ADIDAS-Men-Tshirts-31658728492301-1.jpg",
+          "brand": "ADIDAS",
+          "product": "Sereno 3-Stripes T-shirt",
+          "price": 1109,
+          "strike": 1499,
+          "discount": "(26% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18984188/2022/7/28/5666ed90-25d0-45f8-a0c0-94a61c2e69f91659001802889-Levis-Men-Red-Solid-Polo-Collar-Casual-T-shirt-1381659001802-1.jpg",
+          "brand": "Levis",
+          "product": "Men Polo Collar T-shirt",
+          "price": 1379,
+          "strike": 2299,
+          "discount": "(40% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13478322/2021/5/21/d5944bf7-c63e-45b8-9e1d-84aa5e188fe01621579737892-JJDI-GLENN-POLO-IN-3891621579736435-1.jpg",
+          "brand": "Jack & Jones",
+          "product": "Polo Collar Lounge T-shirt",
+          "price": 479,
+          "strike": 1199,
+          "discount": "(60% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12329052/2020/11/13/c2f806d9-a97f-4ff1-b29f-87dfae9b01b31605251947338-WROGN-Men-Tshirts-6671605251946086-1.jpg",
+          "brand": "WROGN",
+          "product": "Slim Fit Cotton T-shirt",
+          "price": 740,
+          "strike": 1299,
+          "discount": "(43% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16741176/2022/6/7/928d246f-8808-41d6-9eb1-96d141eaf7b41654603530162-ADIDAS-Men-Tshirts-3771654603529691-1.jpg",
+          "brand": "ADIDAS",
+          "product": "Men AFC Aeroready Football T-shirt",
+          "price": 4499,
+          "strike": 4999,
+          "discount": "(10% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20163182/2022/9/26/4b321af4-2c3a-4fc0-929a-a37301bc8e561664168596130SlimFitPiqupoloshirt1.jpg",
+          "brand": "H&M",
+          "product": "Men Slim Fit Piqu Polo Shirt",
+          "price": 1039,
+          "strike": 1299,
+          "discount": "(20% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19182928/2022/11/29/12bd0188-8025-4a4f-8bee-bcfc2d54fb1d1669707893198-US-Polo-Assn-Men-Tshirts-2951669707892692-1.jpg",
+          "brand": "U.S. Polo Assn.",
+          "product": "Men Pure Cotton T-shirt",
+          "price": 1424,
+          "strike": 1899,
+          "discount": "(25% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21756532/2023/1/30/b1a6eadc-82c4-4323-9ea7-cb7f7e5ecbca1675071140739TechnosportMenRedTshirt1.jpg",
+          "brand": "Technosport",
+          "product": "Antimicrobial Training T-shirt",
+          "price": "",
+          "strike": "",
+          "discount": ""
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14790112/2021/8/9/e6400d90-3bcb-4e3c-aaa4-a581a88cc2b11628494509668-ADIDAS-Men-Tshirts-6861628494509162-1.jpg",
+          "brand": "ADIDAS",
+          "product": "Manchester United T-shirt",
+          "price": 2849,
+          "strike": 4999,
+          "discount": "(43% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19429194/2022/8/8/e7b9ce44-8eaf-4d7e-ba54-8c8caf1cde251659948755712Tshirts1.jpg",
+          "brand": "Jack & Jones",
+          "product": "Men Typography Printed T-shirt",
+          "price": 359,
+          "strike": 899,
+          "discount": "(60% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19126274/2022/8/17/33efa8b2-23b1-4af2-be0c-27ba48a2944c1660721711737-Louis-Philippe-AthWork-Men-Tshirts-261660721711149-1.jpg",
+          "brand": "Louis Philippe Ath.Work",
+          "product": "Men Printed Polo Collar T-shirt",
+          "price": 1954,
+          "strike": 2299,
+          "discount": "(15% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13451508/2021/4/6/82dd0c2e-cdbb-4c80-9dc2-1b576b7c97c11617708397153-Bewakoof-Men-Red-Solid-Round-Neck-T-shirt-9671617708396192-1.jpg",
+          "brand": "Bewakoof",
+          "product": "Solid Round Neck Pure Cotton T-shirt",
+          "price": 409,
+          "strike": 999,
+          "discount": "( 590 OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10532978/2019/10/15/5014f2f4-efa0-4ff7-be8d-fe1be63cfcc11571139331308-Allen-Solly-Sport-Men-Tshirts-9131571139329886-1.jpg",
+          "brand": "Allen Solly Sport",
+          "product": "Solid Polo Collar T-shirt",
+          "price": 734,
+          "strike": 1049,
+          "discount": "(30% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/8328515/2019/4/3/a94c855b-876c-4969-8998-ee5374e4f45f1554294147683-HRX-by-Hrithik-Roshan-Men-Red-Printed-T-Shirt-86415542941448-1.jpg",
+          "brand": "HRX by Hrithik Roshan",
+          "product": "Rapid dry Running T-shirt",
+          "price": 404,
+          "strike": 899,
+          "discount": "(55% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14789978/2022/4/12/88328242-aa30-4285-abb5-619f11fe73971649748363841-ADIDAS-Men-Tshirts-6551649748363343-1.jpg",
+          "brand": "ADIDAS",
+          "product": "Arsenal 21/22 Home Football Jersey",
+          "price": 2849,
+          "strike": 4999,
+          "discount": "(43% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21191840/2022/12/28/5c584ba8-422d-49d7-9ce2-42ac2736babe1672217853395-Louis-Philippe-Men-Tshirts-361672217853004-1.jpg",
+          "brand": "Louis Philippe",
+          "product": "Striped Polo Collar T-shirt",
+          "price": 1494,
+          "strike": 2299,
+          "discount": "(35% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19182648/2022/9/3/41ca19d3-1b6f-4ef0-b97f-c4cd69f1de481662189909648-US-Polo-Assn-Men-Red-Polo-Collar-T-shirt-4261662189909142-1.jpg",
+          "brand": "U.S. Polo Assn.",
+          "product": "Men Polo Collar T-shirt",
+          "price": 1219,
+          "strike": 1999,
+          "discount": "(39% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19154286/2022/11/2/dfc2713c-5b68-4563-b1ac-a91d5465473b1667370038673-Tommy-Hilfiger-Men-Tshirts-4391667370038122-1.jpg",
+          "brand": "Tommy Hilfiger",
+          "product": "Men Brand Logo Polo Collar Applique T-shirt",
+          "price": 2519,
+          "strike": 2799,
+          "discount": "(10% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17860954/2022/11/14/c09297cb-b93a-4749-828f-04f1011ca1571668404445048-HRX-by-Hrithik-Roshan-Men-Tshirts-8221668404444605-1.jpg",
+          "brand": "HRX by Hrithik Roshan",
+          "product": "Men Pure Cotton T-shirt",
+          "price": 494,
+          "strike": 899,
+          "discount": "(45% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19234794/2022/8/17/6563fcf7-f1ec-41b9-a3a2-800a33610b301660723533220-DILLINGER-Men-Red-Typography-Printed-Pure-Cotton-Loose-T-shi-5.jpg",
+          "brand": "DILLINGER",
+          "product": "Men Typography Printed Loose T-shirt",
+          "price": 583,
+          "strike": 799,
+          "discount": "(27% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19444786/2022/8/23/22e4bdba-bee1-43b9-ac57-de5a31380f761661245348026-Louis-Philippe-Jeans-Men-Tshirts-1761661245347685-1.jpg",
+          "brand": "Louis Philippe Jeans",
+          "product": "Men Cotton Slim Fit T-shirt",
+          "price": 934,
+          "strike": 1699,
+          "discount": "(45% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15134272/2021/8/13/1e645766-dd89-4c9d-b2b6-7ccadcac55ae1628848095823na1.jpg",
+          "brand": "GANT",
+          "product": "Men Striped Polo Collar T-shirt",
+          "price": 4399,
+          "strike": 7999,
+          "discount": "(45% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17275550/2022/10/18/6a756a43-061b-4a8b-a1e2-ef8a65586f381666091084333-Ducati-Men-Tshirts-8391666091083785-1.jpg",
+          "brand": "Ducati",
+          "product": "Men Printed T-shirt",
+          "price": 845,
+          "strike": 1799,
+          "discount": "(53% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19021472/2022/8/1/6cd0262d-b073-42e2-ad09-40e66046ef761659351710144-U-S-Polo-Assn-Denim-Co-Men-Red--Cream-Coloured-Brand-Logo-Pr-1.jpg",
+          "brand": "U.S. Polo Assn. Denim Co.",
+          "product": "Men Brand Logo Printed Slim Fit T-shirt",
+          "price": 576,
+          "strike": 1049,
+          "discount": "(45% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20172568/2022/9/26/0bfafa26-088f-467a-b76e-bc53193bf5891664195057596BewakoofRedTypographyTshirts1.jpg",
+          "brand": "Bewakoof",
+          "product": "Men Cotton Printed T-shirt",
+          "price": 506,
+          "strike": 1149,
+          "discount": "( 643 OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15203018/2022/12/8/3c9102b3-53e0-4e46-ad26-f21396546c031670477645534LouisPhilippeJeansMenRedSolidPureCottonT-shirt1.jpg",
+          "brand": "Louis Philippe Jeans",
+          "product": "Men Pure Cotton T-shirt",
+          "price": 649,
+          "strike": 1299,
+          "discount": "(50% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18221304/2022/5/25/6d1c70e3-6d0e-4956-93cc-3c5f42b5524e1653454702093-Louis-Philippe-Sport-Men-Red--Khaki-Brand-Logo-Colourblocked-1.jpg",
+          "brand": "Louis Philippe Sport",
+          "product": "Men Colourblocked Polo T-shirt",
+          "price": 1319,
+          "strike": 2199,
+          "discount": "(40% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19262940/2022/8/17/cfb22a5f-c966-4fb6-9017-82ab167717241660719948961-Being-Human-Men-Tshirts-6001660719948548-1.jpg",
+          "brand": "Being Human",
+          "product": "Men Pure Cotton T-shirt",
+          "price": 419,
+          "strike": 1199,
+          "discount": "(65% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15610078/2021/10/19/5368dd37-4a57-405c-b72b-e0ac26395a181634622354546-HERENOW-Men-Tshirts-951634622354011-1.jpg",
+          "brand": "HERE&NOW",
+          "product": "Men Printed T-shirt",
+          "price": 399,
+          "strike": 799,
+          "discount": "( 400 OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20324516/2022/10/27/6872d453-8cb0-4c92-aeae-7ed34b7cb2591666860869327-Louis-Philippe-Sport-Men-Tshirts-2151666860868828-1.jpg",
+          "brand": "Louis Philippe Sport",
+          "product": "Men Striped Polo T-shirt",
+          "price": 989,
+          "strike": 1799,
+          "discount": "(45% OFF)"
+        },
+        {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20324516/2022/10/27/6872d453-8cb0-4c92-aeae-7ed34b7cb2591666860869327-Louis-Philippe-Sport-Men-Tshirts-2151666860868828-1.jpg",
+            "brand": "Louis Philippe Sport",
+            "product": "Men Striped Polo T-shirt",
+            "price": 989,
+            "strike": 1799,
+            "discount": "(45% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21770816/2023/1/31/596125bb-8cbe-4f96-9bef-401adb1b8faa1675152790944TechnosportMenRedTshirt1.jpg",
+            "brand": "Technosport",
+            "product": "Men Antimicrobial Active Tee",
+            "price": "",
+            "strike": "",
+            "discount": ""
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17229296/2022/2/21/6e35a6da-55db-4ff8-88df-2fef999b5bf11645427693297GANTMenRedStripedPoloCollarPocketsT-shirt1.jpg",
+            "brand": "GANT",
+            "product": "Men Polo Collar T-shirt",
+            "price": 4124,
+            "strike": 7499,
+            "discount": "(45% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15974936/2022/3/15/02238a8e-9cc1-4ebc-a76f-b310434ea1851647323761951-Slazenger-Men-Tshirts-3281647323761418-1.jpg",
+            "brand": "Slazenger",
+            "product": "Men Colourblocked Bio-Wash T-shirt",
+            "price": 239,
+            "strike": 799,
+            "discount": "(70% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18984126/2022/8/24/28eec122-b453-4212-9390-1fc6935138af1661343377453T-Shirt1.jpg",
+            "brand": "Levis",
+            "product": "Men Bandana Printed T-shirt",
+            "price": 1609,
+            "strike": 2299,
+            "discount": "(30% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19730738/2022/9/9/481096d9-acd6-4859-bc08-226bdbb7396c1662700760146-AS-M-NSW-TEE-SWOOSH-50-HBR-FS-2651662700759621-1.jpg",
+            "brand": "Nike",
+            "product": "Men Logo SWOOSH 50 HBR T-shirt",
+            "price": 1436,
+            "strike": 1795,
+            "discount": "(20% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17275542/2022/4/26/0a534bcb-28bf-4fd1-ac82-6d45262eb2d91650967237981-Ducati-Men-Tshirts-1961650967237496-1.jpg",
+            "brand": "Ducati",
+            "product": "Men Typography Printed T-shirt",
+            "price": 845,
+            "strike": 1799,
+            "discount": "(53% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20716716/2023/1/31/37dbdfb6-1927-4521-a2ba-b88ab5b6f4ce1675144694058-Peter-England-Men-Striped-Polo-Collar-T-shirt-53416751446934-1.jpg",
+            "brand": "Peter England",
+            "product": "Men Striped Polo Collar T-shirt",
+            "price": 1259,
+            "strike": 1399,
+            "discount": "(10% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12907676/2021/2/17/68a52c1e-e7db-4fb6-ac65-d070854c0c371613552204148-Roadster-Men-Tshirts-7631613552202920-1.jpg",
+            "brand": "Roadster",
+            "product": "Striped Pure Cotton T-shirt",
+            "price": 449,
+            "strike": 999,
+            "discount": "(55% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21332130/2022/12/28/432a0d90-8424-4be3-ae20-17d97b0800551672225171317YoungMenIronManPrintedRedTshirt1.jpg",
+            "brand": "Free Authority",
+            "product": "Men Printed Cotton T-shirt",
+            "price": 681,
+            "strike": 1049,
+            "discount": "(35% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17533876/2022/3/15/208a6c00-625e-495b-8c35-1d49212750b11647325002722JackJonesMenRedColourblockedHenleyNeckAppliqueT-shirt1.jpg",
+            "brand": "Jack & Jones",
+            "product": "Men Typography Cotton T-shirt",
+            "price": 384,
+            "strike": 1099,
+            "discount": "(65% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20346942/2022/11/14/f35df1be-841e-4869-9c38-a73f41be14501668427512792-Being-Human-Men-Red-Polo-Collar-Pure-Cotton-T-shirt-45016684-1.jpg",
+            "brand": "Being Human",
+            "product": "Men Polo Collar T-shirt",
+            "price": 1319,
+            "strike": 2199,
+            "discount": "(40% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15459520/2021/9/14/9f513d96-0e1d-4eaa-be6b-495ed6b69de11631606155871GANTMenRedTypographyColourblockedPoloCollarT-shirt1.jpg",
+            "brand": "GANT",
+            "product": "Men Polo Collar T-shirt",
+            "price": 4949,
+            "strike": 8999,
+            "discount": "(45% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/7809647/2019/7/12/56ee745c-f4f2-451d-930d-dcc1369add1e1562924050458-Justice-League-Men-Red-Printed-Round-Neck-T-shirt-6811562924-1.jpg",
+            "brand": "Justice League",
+            "product": "Printed Round Neck Pure Cotton T-shirt",
+            "price": 335,
+            "strike": 799,
+            "discount": "(58% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17208398/2022/7/27/9f8fdc6d-41f2-418f-b9ac-9e5102b46f371658904356433-HRX-by-Hrithik-Roshan-Men-Tshirts-4321658904355930-1.jpg",
+            "brand": "HRX by Hrithik Roshan",
+            "product": "Training Bio-Wash Tshirts",
+            "price": 399,
+            "strike": 899,
+            "discount": "( 500 OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18904582/2022/10/17/0d6fcdb2-9a6d-420c-bdc6-733ff1c1731e1665997224268-Arrow-Men-Tshirts-801665997223709-1.jpg",
+            "brand": "Arrow",
+            "product": "Men Pure Cotton T-shirt",
+            "price": 1279,
+            "strike": 1599,
+            "discount": "(20% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17860740/2022/5/19/3dedbf2a-2cd5-47ff-9531-f56418de1d9c1652942658462-HRX-by-Hrithik-Roshan-Men-Tshirts-2311652942658055-5.jpg",
+            "brand": "HRX by Hrithik Roshan",
+            "product": "Yoga Organic Cotton Tshirts",
+            "price": 224,
+            "strike": 899,
+            "discount": "(75% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19746210/2022/9/22/eac95b9e-503c-4183-9796-a34101e3ba3e1663843290542-U-S-Polo-Assn-Men-Red-Polo-Collar-Pure-Cotton-Slim-Fit-T-shi-1.jpg",
+            "brand": "U.S. Polo Assn.",
+            "product": "Men Polo Collar Slim Fit T-shirt",
+            "price": "",
+            "strike": "",
+            "discount": ""
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20346980/2022/11/14/422bf1d1-eb88-4445-a072-84be8cf1c1371668427519839-Being-Human-Men-Red-Polo-Collar-Pure-Cotton-T-shirt-77316684-1.jpg",
+            "brand": "Being Human",
+            "product": "Men Polo Collar T-shirt",
+            "price": 1199,
+            "strike": 1999,
+            "discount": "(40% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16055254/2021/12/9/6090c105-b958-486b-804f-24e44a87a8051639034081590-Mast--Harbour-Men-Tshirts-3251639034080604-1.jpg",
+            "brand": "Mast & Harbour",
+            "product": "Men Solid Polo Collar T-shirt",
+            "price": 549,
+            "strike": 1099,
+            "discount": "(50% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18256422/2022/9/21/ca5fabd9-61f7-4afa-b73d-8615e84704601663756984004-Mr-Bowerbird-Men-Tshirts-6021663756983558-3.jpg",
+            "brand": "Mr Bowerbird",
+            "product": "Men Flat Knit Polo T-shirt",
+            "price": 1499,
+            "strike": 2999,
+            "discount": "(50% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17456394/2022/4/19/a910d270-47c6-456c-8340-2e263fd9ec961650367179317-Nautica-Men-Tshirts-891650367178827-1.jpg",
+            "brand": "Nautica",
+            "product": "Men Pure Cotton T-shirt",
+            "price": 639,
+            "strike": 1599,
+            "discount": "(60% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16803506/2022/1/27/5e9b38b6-ac37-49fa-92d2-e6c38681a5c01643279055604-Levis-Men-Red-Printed-Pure-Cotton-T-shirt-1551643279054895-1.jpg",
+            "brand": "Levis",
+            "product": "Men Pure Cotton T-shirt",
+            "price": 959,
+            "strike": 1599,
+            "discount": "(40% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21771994/2023/1/31/80839f14-e8a3-4b32-a738-90e6536947c61675153477264TechnosportMenRedTshirt1.jpg",
+            "brand": "Technosport",
+            "product": "Men Colourblocked T-shirt",
+            "price": "",
+            "strike": "",
+            "discount": ""
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19222782/2022/8/9/e860e40c-9046-4711-b3e3-3457e85eb4d11660038036616-Chicago-Bulls-Logo-Mens-Nike-Dri-FIT-NBA-T-Shirt-32916600380-1.jpg",
+            "brand": "Nike",
+            "product": "Men Brand Logo Printed Dri-FIT T-shirt",
+            "price": 1346,
+            "strike": 1795,
+            "discount": "(25% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10553924/2019/9/3/d7befae8-5e32-4576-8d52-9569562c77871567516292092-Kook-N-Keech-Marvel-Men-Tshirts-9211567516290806-1.jpg",
+            "brand": "Kook N Keech Marvel",
+            "product": "Printed Round Neck Pure Cotton T-shirt",
+            "price": 335,
+            "strike": 799,
+            "discount": "(58% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20560742/2022/11/7/03b71c55-b747-46fd-b345-edbcafbf49601667815935520-U-S-Polo-Assn-Men-Red-Pure-Cotton-Solid-Polo-Collar-T-shirt--6.jpg",
+            "brand": "U.S. Polo Assn.",
+            "product": "Pure Cotton Solid T-shirt",
+            "price": 1349,
+            "strike": 1799,
+            "discount": "(25% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21898512/2023/2/9/7620f553-6454-4141-b77f-5ba86b81fbde1675944546180TommyHilfigerMenRedPoloCollarT-shirt1.jpg",
+            "brand": "Tommy Hilfiger",
+            "product": "Men Polo Collar T-shirt",
+            "price": "",
+            "strike": "",
+            "discount": ""
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13502938/2021/8/27/ab24675e-96e2-48fd-abb3-8fb346b762691630044555064-Puma-Men-Tshirts-4971630044554621-1.jpg",
+            "brand": "Puma",
+            "product": "Men dryCELL T-shirt",
+            "price": 1439,
+            "strike": 1799,
+            "discount": "(20% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19262868/2022/8/22/1f262287-bd81-4e6b-b0a7-e848b31e4ead1661170415574-Being-Human-Men-Red-Polo-Collar-Pure-Cotton-T-shirt-15166117-1.jpg",
+            "brand": "Being Human",
+            "product": "Men Polo Collar T-shirt",
+            "price": 734,
+            "strike": 2099,
+            "discount": "(65% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18828596/2022/10/12/3718b897-8cba-4298-8fa8-a3758c99d2311665574405097-Calvin-Klein-Jeans-Men-Tshirts-7311665574404604-1.jpg",
+            "brand": "Calvin Klein Jeans",
+            "product": "Men Brand Logo Printed Slim Fit T-shirt",
+            "price": 3599,
+            "strike": 3999,
+            "discount": "(10% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18818788/2022/7/7/9f62d2bf-965e-4df6-ac22-76a0e74ec1971657174739525-Tommy-Hilfiger-Men-Tshirts-8831657174739053-1.jpg",
+            "brand": "Tommy Hilfiger",
+            "product": "Men Pure Cotton Casual T-shirt",
+            "price": 1279,
+            "strike": 1599,
+            "discount": "(20% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14505008/2021/8/9/3f09c98c-9351-4df9-a1ff-6814106999ec1628508786252-ADIDAS-Men-Tshirts-7381628508785639-1.jpg",
+            "brand": "ADIDAS",
+            "product": "Designed2Move Heather T-shirt",
+            "price": 1199,
+            "strike": 1499,
+            "discount": "(20% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12121574/2021/1/28/b75e9e1a-37f3-44b6-add5-b0f1991891d41611818111699-Roadster-Men-Tshirts-941611818109916-1.jpg",
+            "brand": "Roadster",
+            "product": "Pure Cotton Brand Logo Pure Cotton T-shirt",
+            "price": 249,
+            "strike": 499,
+            "discount": "(50% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21898418/2023/2/9/13f5897f-8f97-45d2-a793-2be7726a83bc1675945894108TommyHilfigerMenRedPoloCollarSlimFitT-shirt1.jpg",
+            "brand": "Tommy Hilfiger",
+            "product": "Slim Fit Cotton T-shirt",
+            "price": "",
+            "strike": "",
+            "discount": ""
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17861336/2022/11/14/e551af46-6922-45f1-bc35-e5190e82b0941668427398871-HRX-by-Hrithik-Roshan-Men-Tshirts-5101668427398111-1.jpg",
+            "brand": "HRX by Hrithik Roshan",
+            "product": "Training Rapid-Dry T-shirt",
+            "price": 494,
+            "strike": 899,
+            "discount": "(45% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18982046/2022/7/18/3b028f35-7c25-4002-b685-b17dbef2c36f1658145906268-Jacquard-T-Shirt-8001658145905792-1.jpg",
+            "brand": "Puma",
+            "product": "Men Slim Fit T-shirt",
+            "price": 1324,
+            "strike": 2499,
+            "discount": "(47% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20044096/2022/9/17/bb73a957-e587-4b65-9329-2b925b1d65951663395906451MensPremiumSoftTouchPackof21.jpg",
+            "brand": "Puma",
+            "product": "Men Pack Of 2 Solid Cotton Innerwear Vests",
+            "price": 909,
+            "strike": 1299,
+            "discount": "(30% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13673852/2021/3/24/89c898aa-de3c-4006-a186-a6b4951a7dc51616560433868-WROGN-Men-Tshirts-121616560433229-1.jpg",
+            "brand": "WROGN",
+            "product": "Slim Cotton Polo Pure Cotton T-shirt",
+            "price": 854,
+            "strike": 1499,
+            "discount": "(43% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16541766/2021/12/30/2b720f89-841b-48ec-8e80-1b54911713471640849342833-PORTBLAIR-Men-Tshirts-1871640849342336-1.jpg",
+            "brand": "PORTBLAIR",
+            "product": "Men Brand Logo Printed Polo Collar T-shirt",
+            "price": 495,
+            "strike": 1599,
+            "discount": "(69% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17883470/2022/4/14/d80dce69-6835-4769-a59c-03e6aab410cf1649904844498RegularFitCottonT-shirt1.jpg",
+            "brand": "H&M",
+            "product": "Regular Fit Cotton T-shirt",
+            "price": 719,
+            "strike": 799,
+            "discount": "(10% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20073334/2022/10/18/889d2a59-db5c-4b0b-9554-7637a3e2d91e1666095766929-Jordan-Essentials-Mens-T-shirt-2701666095766531-1.jpg",
+            "brand": "Nike",
+            "product": "Men Printed Basketball T-shirt",
+            "price": 1615,
+            "strike": 1795,
+            "discount": "(10% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12121232/2021/2/3/acf17504-fd6a-4842-afe3-15ba299b5ef71612354044361-Roadster-Men-Red-Solid-Polo-Collar-T-shirt-6761612354042782-1.jpg",
+            "brand": "Roadster",
+            "product": "Solid Polo Collar T-shirt",
+            "price": 699,
+            "strike": 1399,
+            "discount": "(50% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10956682/2020/2/27/95a1c754-02d7-475a-b328-eef117db73441582790806292-Sztori-Men-Red-Solid-Polo-Collar-T-shirt-5791582790804755-1.jpg",
+            "brand": "Sztori",
+            "product": "Plus Size Solid Polo Collar T-shirt",
+            "price": 1169,
+            "strike": 1799,
+            "discount": "(35% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17875610/2022/5/10/0a00cf22-bba4-4fb2-81b5-f2658bde35b91652179456303-Puma-Men-Pack-Of-2-Solid-V-Neck-Pure-Cotton-Casual-T-shirts--1.jpg",
+            "brand": "Puma",
+            "product": "Men Pack Of 2 T-shirts",
+            "price": 1049,
+            "strike": 1499,
+            "discount": "(30% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16260468/2021/12/14/8d5fa322-19a6-4c07-9ee2-612ecc8c89811639474676979-HERENOW-Men-Tshirts-2571639474676581-1.jpg",
+            "brand": "HERE&NOW",
+            "product": "Men Striped T-shirt",
+            "price": 399,
+            "strike": 899,
+            "discount": "( 500 OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16923072/2022/3/30/e7ec549b-77bf-42a1-8da1-ac0d17156e2a1648635134589-Nautica-Men-Red-Solid-Polo-Collar-Pure-Cotton-T-shirt-768164-1.jpg",
+            "brand": "Nautica",
+            "product": "Men Solid Pure Cotton T-shirt",
+            "price": 1799,
+            "strike": 3599,
+            "discount": "(50% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19933054/2022/10/12/9909e63f-e8bf-49a4-9af7-c536083795a11665571031433-Louis-Philippe-Sport-Men-Tshirts-5601665571030893-1.jpg",
+            "brand": "Louis Philippe Sport",
+            "product": "Men Striped Polo Collar T-shirt",
+            "price": 999,
+            "strike": 1999,
+            "discount": "(50% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19182666/2022/11/4/e242f238-d64f-4680-8678-808867d17fd01667546000964-U-S-Polo-Assn-Denim-Co-Men-Red-Printed-Polo-Collar-Pure-Cott-1.jpg",
+            "brand": "U.S. Polo Assn. Denim Co.",
+            "product": "Men Printed Slim Fit T-shirt",
+            "price": 1424,
+            "strike": 1899,
+            "discount": "(25% OFF)"
+          },
+          {
+            "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13971574/2021/4/6/834f746e-b578-447b-b0fd-6cb2766640d81617705069948-Puma-Men-Tshirts-2901617705069081-1.jpg",
+            "brand": "Puma",
+            "product": "RCB Take Down Jersey T-shirt",
+            "price": 714,
+            "strike": 1299,
+            "discount": "(45% OFF)"
+          }
+      ]
+}
