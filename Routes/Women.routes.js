@@ -12,6 +12,8 @@ const womenRouter = express.Router();
 
 womenRouter.get("/", async (req, res) => {
     const {search,min,max} = req.query
+    min=min || 1
+    max=max || 100000
     try{
         let data = await WomenModel.find({$and:[{product:{$regex:search, $options: 'i'}},{price:{$gte:min}},{price:{$lte:max}}]})
         res.send(data)
@@ -19,8 +21,19 @@ womenRouter.get("/", async (req, res) => {
         console.log('err:', err)
     }
 })
+womenRouter.get("/:id", async (req, res) => {
+    const ID = req.params.id 
+    try{
+        let data = await WomenModel.find({_id:ID})
+        res.send(data)
+    }catch(err){
+        console.log('err:', err)
+    }
+})
 womenRouter.get("/black", async (req, res) => {
     const {min,max} = req.query
+    min=min || 1
+    max=max || 100000
     try{
         let data = await WomenBlackModel.find({$and:[{price:{$gte:min}},{price:{$lte:max}}]})
         res.send(data)
@@ -30,6 +43,8 @@ womenRouter.get("/black", async (req, res) => {
 })
 womenRouter.get("/blue", async (req, res) => {
     const {min,max} = req.query
+    min=min || 1
+    max=max || 100000
     try{
         let data = await WomenBlueModel.find({$and:[{price:{$gte:min}},{price:{$lte:max}}]})
         res.send(data)
@@ -39,6 +54,8 @@ womenRouter.get("/blue", async (req, res) => {
 })
 womenRouter.get("/pink", async (req, res) => {
     const {min,max} = req.query
+    min=min || 1
+    max=max || 100000
     try{
         let data = await WomenPinkModel.find({$and:[{price:{$gte:min}},{price:{$lte:max}}]})
         res.send(data)
