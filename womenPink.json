@@ -1,0 +1,806 @@
+{
+    "data": [
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21382434/2023/1/2/f9415c12-65ec-4535-bdee-8f983692dc631672643246633Blazers1.jpg",
+          "brand": "KASSUALLY",
+          "product": "Single-Breasted Fleece Blazer",
+          "price": 1007,
+          "strike": 2399,
+          "discount": "(58% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20437932/2022/10/17/135f8909-775b-4433-8aef-3682b0658d231666018443286AthenaLightpinksweatheartneckPeplumco-ordset1.jpg",
+          "brand": "Athena",
+          "product": "Women Solid Co-Ords",
+          "price": 1385,
+          "strike": 3299,
+          "discount": "(58% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/7/3/8a89c0f5-8cdc-4389-b6c0-eef78ea7367d1593726806405-1.jpg",
+          "brand": "Berrylush",
+          "product": "Mini Fit and Flare Dress",
+          "price": 279,
+          "strike": 1399,
+          "discount": "(80% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/9/16/25f5b6a7-ce25-4e66-8a61-3aa2037b6c741600207614629-1.jpg",
+          "brand": "Harpa",
+          "product": "Floral Printed A-Line Dress",
+          "price": 815,
+          "strike": 1699,
+          "discount": "(52% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21862246/2023/2/8/ffb032cd-8564-4f5a-85a8-6ef83943d55a1675870645513WPinkA-LineMidiDress1.jpg",
+          "brand": "W",
+          "product": "Shirt Collar A-Line Midi Dress",
+          "price": "",
+          "strike": "",
+          "discount": ""
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/8816777/2019/6/14/fddcc388-186b-4277-a33e-2d2e380701541560497607018-Roadster-Women-Pink-Solid-Shirt-2191560497605861-1.jpg",
+          "brand": "Roadster",
+          "product": "Women High-Low Shirt",
+          "price": 614,
+          "strike": 1499,
+          "discount": "(59% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20437936/2022/10/17/954f6986-1744-42a4-927a-36764995ef881666020618533AthenaPinkfrontknottingCo-ordset1.jpg",
+          "brand": "Athena",
+          "product": "Women Printed Co-Ords",
+          "price": 2119,
+          "strike": 3999,
+          "discount": "(47% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21776092/2023/1/31/c57532a5-9f16-404a-bddf-57d6c74b32bf1675154939852Dresses1.jpg",
+          "brand": "Darzi",
+          "product": "Floral Printed Bodycon Dress",
+          "price": 599,
+          "strike": 1499,
+          "discount": "( 900 OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17535452/2022/3/29/e671c6d6-e15d-48f8-92fc-0413b44286fe1648555282536-Berrylush-Women-Pink-Hanky-Hem-Abstract-Cami-Top-48416485552-1.jpg",
+          "brand": "Berrylush",
+          "product": "Abstract Scarf Top",
+          "price": 284,
+          "strike": 1499,
+          "discount": "(81% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16831912/2022/2/7/16124115-d96a-43b2-b647-ad76086ee48e1644248211536-Tokyo-Talkies-Pink--Blue-Sheath-Dress-3281644248210712-1.jpg",
+          "brand": "Tokyo Talkies",
+          "product": "Cut-out Dress",
+          "price": 799,
+          "strike": 1999,
+          "discount": "(60% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12193826/2020/10/13/e5880ee7-80af-4405-ae9f-7760b22a34621602571369433-Roadster-Women-Tshirts-1601602571367968-1.jpg",
+          "brand": "Roadster",
+          "product": "Printed Round Neck Pure Cotton T-shirt",
+          "price": 359,
+          "strike": 799,
+          "discount": "(55% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16542068/2022/1/5/47eeaafa-9ccd-45d8-b12d-98e12d112ca81641371558008-Berrylush-Women-Pink-Ditsy-Floral-Drawstring-Front-Milkmaid--1.jpg",
+          "brand": "Berrylush",
+          "product": "Floral Puff Sleeves Dress",
+          "price": 503,
+          "strike": 1799,
+          "discount": "(72% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10526804/2019/12/14/756be9af-919a-40be-8b89-a2fa8a68e8ab1576323616487-DressBerry-Women-Dresses-3371576323614015-1.jpg",
+          "brand": "DressBerry",
+          "product": "Floral Printed A-Line Dress",
+          "price": 1374,
+          "strike": 2499,
+          "discount": "(45% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17142516/2022/2/24/43ba4f9e-0661-4b5f-ad95-0852d1f9d2c81645699732185-Athena-Pink-floral-puff-sleeve-midi-dress-6301645699731740-1.jpg",
+          "brand": "Athena",
+          "product": "Floral Volume Play Dress",
+          "price": 1119,
+          "strike": 2799,
+          "discount": "(60% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18659986/2022/6/7/460b2205-9f40-4e8c-aa4b-527d27fd0f4a1654605536274Dresses1.jpg",
+          "brand": "Janasya",
+          "product": "Midi Dress",
+          "price": 892,
+          "strike": 1899,
+          "discount": "(53% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19221256/2022/7/22/2b09fbbc-ee34-4743-b625-de95422052b41658491594663Dustypinktop1.jpg",
+          "brand": "Masakali.Co",
+          "product": "Floral Printed Shirt Style Top",
+          "price": 699,
+          "strike": 1749,
+          "discount": "(60% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21632898/2023/1/20/2662f2d0-cb51-4c08-8032-5575d8553a4c1674198686099Dresses1.jpg",
+          "brand": "Darzi",
+          "product": "Bodycon Mini Dress",
+          "price": 699,
+          "strike": 1499,
+          "discount": "( 800 OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/1/16/e3f9eaaf-6377-4f55-bdf7-779ab46611771579126720673-1.jpg",
+          "brand": "Tokyo Talkies",
+          "product": "Embroidered Peplum Top",
+          "price": 493,
+          "strike": 1299,
+          "discount": "(62% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21442170/2023/1/6/2ffd0b04-f3c6-4d8e-9457-e0675764de121673001543052VMPinkCrepeMaxiMaxiDress1.jpg",
+          "brand": "V&M",
+          "product": "Lace Maxi Dress",
+          "price": 1499,
+          "strike": 2599,
+          "discount": "( 1100 OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13583346/2021/4/19/a3537a84-59c9-447a-87b2-6b333c40c12f1618811484286-Chemistry-Women-Shirts-3711618811483482-1.jpg",
+          "brand": "Chemistry",
+          "product": "Regular Fit Casual Shirt",
+          "price": 899,
+          "strike": 1499,
+          "discount": "(40% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18243342/2022/5/31/948f1fb9-7c63-4efd-bf1a-858d91f545ad1653968364679-Berrylush-Women-Pink-Solid-Paperbag-Waist-Wide-Leg-Pants-660-1.jpg",
+          "brand": "Berrylush",
+          "product": "Women Solid Roman Column Trousers",
+          "price": 329,
+          "strike": 2199,
+          "discount": "(85% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/8328665/2019/2/12/a09932e6-08cc-4a77-8bc6-3d23494df3531549972974631-HRX-by-Hrithik-Roshan-Women-Pink-Solid-Round-Neck-T-shirt-10-1.jpg",
+          "brand": "HRX by Hrithik Roshan",
+          "product": "Women Solid Round Neck T-shirt",
+          "price": 419,
+          "strike": 699,
+          "discount": "(40% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17811478/2022/4/8/3e7d49b5-2dab-4bbd-a75b-274784c91c761649401342737SeraPinkTieandDyeChiffonTop1.jpg",
+          "brand": "Sera",
+          "product": "Tie and Dye Chiffon Top",
+          "price": 571,
+          "strike": 1298,
+          "discount": "(56% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19866250/2022/9/17/f5767214-d731-492f-8557-cec69fe2a72e1663415196701-Berrylush-Women-Pink-Abstract-Print-Button-Front-Puff-Sleeve-1.jpg",
+          "brand": "Berrylush",
+          "product": "Abstract Print A-Line Dress",
+          "price": 449,
+          "strike": 2249,
+          "discount": "(80% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17224118/2022/3/8/0867e752-8218-4007-8b0a-308e73e1cb951646709380695BerrylushPinkOffWhiteFloralCrepeA-LineDress1.jpg",
+          "brand": "Berrylush",
+          "product": "Floral Crepe A-Line Dress",
+          "price": 759,
+          "strike": 1899,
+          "discount": "(60% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17046128/2022/4/11/0ba5d78f-36a0-4c05-8cf2-be8a004c38661649657119048-Chemistry-Women-Shirts-8431649657118418-1.jpg",
+          "brand": "Chemistry",
+          "product": "Pure Cotton Solid Formal Shirt",
+          "price": 599,
+          "strike": 999,
+          "discount": "(40% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18594562/2022/6/14/4c832739-68a3-4d47-928e-437a0d49c9e11655191743320-Berrylush-Women-Pink-Solid-Ruched-Mini-Skirt-259165519174278-1.jpg",
+          "brand": "Berrylush",
+          "product": "Solid Volume Play Skirt",
+          "price": 383,
+          "strike": 2399,
+          "discount": "(84% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18034104/2022/7/13/79ce03b7-b1f9-4806-ae5b-f4105cb20b761657703784984INDYAPinkEmbroideredCapriJumpsuitwithAttachedDupatta2.jpg",
+          "brand": "INDYA",
+          "product": "Embroidered Capri Jumpsuit",
+          "price": 1440,
+          "strike": 3200,
+          "discount": "(55% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21395888/2023/1/3/a564cfdb-65ec-48aa-aab8-7afc9ac203b61672732947065StyliWomenPinkTypographyPrintedRawEdgeLooseT-shirt1.jpg",
+          "brand": "Styli",
+          "product": "Women Typography Printed Loose T-shirt",
+          "price": 559,
+          "strike": 699,
+          "discount": "(20% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20243920/2022/10/19/e28776bc-17c7-4622-9a9c-83e8dc01bd461666171401009-Berrylush-Women-Pink-Solid-Round-Neck-Bodycon-Mini-Dress-216-1.jpg",
+          "brand": "Berrylush",
+          "product": "Floral Back Details Dress",
+          "price": 337,
+          "strike": 2249,
+          "discount": "(85% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19475118/2022/8/12/20b06cee-d5f8-4a9c-944c-0d98bf60bfa61660306874357STREET9WomenPinkSheerPrintedCasualShirt1.jpg",
+          "brand": "STREET 9",
+          "product": "Sheer Casual Shirt",
+          "price": 639,
+          "strike": 1599,
+          "discount": "(60% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21052088/2022/12/12/9ecc635f-b968-4444-ad2e-ad31fa0d56581670841898071-Women-Magenta-Pink-Bandhini-Print-Co-Ords-Set-12016708418973-1.jpg",
+          "brand": "Inddus",
+          "product": "Printed Top With Skirt",
+          "price": 2787,
+          "strike": 6799,
+          "discount": "(59% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16215372/2022/3/24/3e0f236d-9eb1-45bc-9862-cab61ca522ff1648118271198-Berrylush-Pink-Crepe-Mini-Dress-2891648118270698-1.jpg",
+          "brand": "Berrylush",
+          "product": "Abstract Cut Out Dress",
+          "price": 919,
+          "strike": 2299,
+          "discount": "(60% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13581146/2021/12/24/7b9121aa-6eae-4bfa-94c6-9758e83a19bb1640347976379-SASSAFRAS-Women-Dusty-Pink-Dobby-Weave-Tiered-Midi-Dress-210-1.jpg",
+          "brand": "SASSAFRAS",
+          "product": "Dobby Weave Tiered Midi Dress",
+          "price": 874,
+          "strike": 2498,
+          "discount": "(65% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19858512/2022/9/8/3837b340-2d09-4f9e-a326-cf309a8c97ed1662630451248MyshkaPinkFloralMidiDress1.jpg",
+          "brand": "Myshka",
+          "product": "Floral Printed Midi Dress",
+          "price": 874,
+          "strike": 3499,
+          "discount": "(75% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19508612/2022/9/13/f14573ef-7003-41c7-acde-33991b6494c01663052132381-Berrylush-Women-Pink-Floral-Print-Relaxed-High-Rise-Trousers-1.jpg",
+          "brand": "Berrylush",
+          "product": "Women Floral Wide Leg Trousers",
+          "price": 424,
+          "strike": 2499,
+          "discount": "(83% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21559352/2023/1/16/a152dd65-f3f5-4e93-a2bf-0e9cb594cb151673840868785OversizedT-shirt1.jpg",
+          "brand": "H&M",
+          "product": "Women Oversized T-shirt",
+          "price": "",
+          "strike": "",
+          "discount": ""
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20500910/2022/11/15/7e608028-4482-40c2-8d7c-28a97144cf071668488922386-Roadster-Women-Sweaters-7441668488921710-1.jpg",
+          "brand": "Roadster",
+          "product": "Women Solid Sweater",
+          "price": 899,
+          "strike": 1799,
+          "discount": "(50% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20760536/2022/11/15/9f7a68c5-851f-4598-bb95-149b83af387b1668512594423WomenPinkSolidCasualSkirt1.jpg",
+          "brand": "Allen Solly Woman",
+          "product": "Women Pencil Skirt",
+          "price": 1499,
+          "strike": 1999,
+          "discount": "(25% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17371260/2022/3/16/4d0c575a-4dd4-4fd3-8e5f-2ce6c22d0e1a1647411830326-Antheaa-Women-Dresses-881647411829884-1.jpg",
+          "brand": "Antheaa",
+          "product": "Floral Chiffon Midi Dress",
+          "price": 1057,
+          "strike": 2459,
+          "discount": "(57% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21795158/2023/2/1/529570d6-a952-4d42-a78c-1be55e1a98961675247150070AthenaLightPinkSchiffliShirtDress1.jpg",
+          "brand": "Athena",
+          "product": "Self Design Cotton Shirt Dress",
+          "price": 1946,
+          "strike": 2995,
+          "discount": "(35% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21240088/2022/12/19/b76a7aa9-2fcb-4353-a279-492a512687851671442119857CottonT-shirt1.jpg",
+          "brand": "H&M",
+          "product": "Women Cotton T-shirt",
+          "price": 479,
+          "strike": 599,
+          "discount": "(20% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21013028/2023/1/4/33c042a6-ecbf-4633-bc6f-ed1b5147c7cc1672813889438-MANGO-Printed-Mini-Wrap-Dress-1181672813888996-1.jpg",
+          "brand": "MANGO",
+          "product": "Printed Mini Wrap Dress",
+          "price": 1854,
+          "strike": 3090,
+          "discount": "(40% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15864422/2021/11/22/99342eaa-9a8d-4894-805c-647f77c157171637557966073-Miss-Chase-Women-Jumpsuit-4491637557965590-1.jpg",
+          "brand": "Miss Chase",
+          "product": "Embellished Basic Jumpsuit",
+          "price": 1880,
+          "strike": 4949,
+          "discount": "(62% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10821328/2020/1/13/377baf60-1b05-4349-aa7c-780891b8891f1578897173413-her-by-invictus-Women-Tops-3601578897170946-1.jpg",
+          "brand": "her by invictus",
+          "product": "High Neck Top",
+          "price": 449,
+          "strike": 899,
+          "discount": "(50% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18424298/2022/5/25/eabb43c3-57c4-4e7a-b6b7-c49009825c1f1653461836404Dresses1.jpg",
+          "brand": "SHEETAL Associates",
+          "product": "Crepe Maxi Dress",
+          "price": 399,
+          "strike": 1999,
+          "discount": "(80% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16714272/2022/2/27/436354bb-3fc6-44e6-b008-78f00a4021381645978104710BerrylushWomenPrettyPinkFloralRuchedDress1.jpg",
+          "brand": "Berrylush",
+          "product": "Floral Ruched Dress",
+          "price": 539,
+          "strike": 2699,
+          "discount": "(80% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21808290/2023/2/2/4df53520-f5fa-43d6-a9d2-a0aa9ccd44901675333844577Tops1.jpg",
+          "brand": "Darzi",
+          "product": "Scoop Neck Bishop Sleeve Top",
+          "price": 599,
+          "strike": 1199,
+          "discount": "( 600 OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15598358/2021/11/17/9cfebdea-d361-456b-af04-15ec4958b6e71637141545502-plusS-Women-Dresses-361637141545104-1.jpg",
+          "brand": "plusS",
+          "product": "Solid Cinched Waist Dress",
+          "price": 563,
+          "strike": 2449,
+          "discount": "(77% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19432192/2022/8/8/5355a5e5-844e-442d-afe3-0bc87c6f032e1659957514457Co-Ords1.jpg",
+          "brand": "Sangria",
+          "product": "Women Shibori Printed Co-Ords",
+          "price": 991,
+          "strike": 3199,
+          "discount": "(69% OFF)"
+        },
+        [
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19432192/2022/8/8/5355a5e5-844e-442d-afe3-0bc87c6f032e1659957514457Co-Ords1.jpg",
+              "brand": "Sangria",
+              "product": "Women Shibori Printed Co-Ords",
+              "price": 991,
+              "strike": 3199,
+              "discount": "(69% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15788340/2021/10/9/cbfd98f9-2957-43b6-a72a-17f4b458def71633778303819TokyoTalkiesPinkStripedRegularTop1.jpg",
+              "brand": "Tokyo Talkies",
+              "product": "Striped Regular Top",
+              "price": 298,
+              "strike": 649,
+              "discount": "(54% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15598218/2021/10/12/90224af2-052b-4d66-a0a1-a2b8c2395b151634039398822-Berrylush-Women-Pink-Surplice-Neck-Belted-Ruffle-Hem-Ditsy-F-1.jpg",
+              "brand": "Berrylush",
+              "product": "Floral Ruffles & Flounces Dress",
+              "price": 479,
+              "strike": 2399,
+              "discount": "(80% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19069908/2022/7/21/ae87ec52-b501-47f6-be99-cbe5f4b199b81658399571953-Libas-Women-Co-Ords-5781658399571433-1.jpg",
+              "brand": "Libas",
+              "product": "Embellished Top with Sharara",
+              "price": 1160,
+              "strike": 4299,
+              "discount": "(73% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/2/10/d264a750-7957-40c8-b516-44980e444ea31612958941536-1.jpg",
+              "brand": "Vishudh",
+              "product": "Printed Top",
+              "price": 399,
+              "strike": 999,
+              "discount": "(60% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21678772/2023/1/23/d840a951-6183-414c-a50e-885dd08153261674494633159CottonT-shirt1.jpg",
+              "brand": "H&M",
+              "product": "Women Cotton T-Shirt",
+              "price": "",
+              "strike": "",
+              "discount": ""
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13740088/2021/4/9/c0603df9-3e3e-48f7-9c63-09bb21f804eb1617952533221-Sera-Printed-Tops-6921617952532561-1.jpg",
+              "brand": "Sera",
+              "product": "Floral Printed Puff Sleeves Chiffon Top Blouson",
+              "price": 571,
+              "strike": 1298,
+              "discount": "(56% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21819468/2023/2/3/f57e57e8-1169-462e-a42c-3edaec6fdfb41675391407483TechnosportWomenPinkAntimicrobialAppliqueT-shirt1.jpg",
+              "brand": "Technosport",
+              "product": "Women Antimicrobial T-shirt",
+              "price": "",
+              "strike": "",
+              "discount": ""
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17288344/2022/4/8/02f68400-3646-444e-8919-15e9017dcca41649402637824-PURYS-Women-Pink--Multicoloured-Printed-Front-Open-Tasselled-3.jpg",
+              "brand": "PURYS",
+              "product": "Women Front Open Printed Shrug",
+              "price": 688,
+              "strike": 1299,
+              "discount": "(47% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15221750/2021/8/23/7d5286af-e1c4-4a2c-854c-10b5cd51c0781629702466872Blazers1.jpg",
+              "brand": "Tokyo Talkies",
+              "product": "Women Solid Single-Breasted Formal Blazer",
+              "price": 699,
+              "strike": 1399,
+              "discount": "(50% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21945228/2023/2/11/2c7ee980-2e02-441e-8117-7d3c0af905011676122299622macklyPinkMaternityT-shirtDress1.jpg",
+              "brand": "mackly",
+              "product": "Maternity T-shirt Dress",
+              "price": 899,
+              "strike": 999,
+              "discount": "(10% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21140760/2022/12/9/c60fe637-3ad8-42e0-82bc-01fa9f68fb461670596112766PrintedT-shirt1.jpg",
+              "brand": "H&M",
+              "product": "Women Printed T-shirt",
+              "price": "",
+              "strike": "",
+              "discount": ""
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14190462/2021/4/26/9250dd3e-bb15-42a4-acb5-d0358d166cc01619436992319PannkhWomenPink1.jpg",
+              "brand": "Pannkh",
+              "product": "Printed Coat with Palazzos",
+              "price": 987,
+              "strike": 2599,
+              "discount": "(62% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13724286/2021/4/6/87f3b2e0-fcd0-4ae3-8200-689e4b5255dd1617686383381SELECTEDMenBlackSlimFitPrintedCasualShirtTrousersLouisPhilip1.jpg",
+              "brand": "Berrylush",
+              "product": "Flutter Sleeves Shirt Style Top",
+              "price": 224,
+              "strike": 1499,
+              "discount": "(85% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2185692/2019/4/17/4c67e79a-7cbf-4ab0-a181-405bd750ef081555479472984-DressBerry-Women-Pink-Regular-Fit-Solid-Casual-Shirt-1131555-1.jpg",
+              "brand": "DressBerry",
+              "product": "Women Regular Fit Casual Shirt",
+              "price": 467,
+              "strike": 1299,
+              "discount": "(64% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13594592/2021/5/19/3f6343c7-9a66-4499-b842-a1b512f589ad1621406286695HRXByHrithikRoshanWomenTofuAOPSkinnyFitReversibleRapid-DryAn1.jpg",
+              "brand": "Roadster",
+              "product": "Cotton Solid Cropped T-shirt",
+              "price": 249,
+              "strike": 499,
+              "discount": "(50% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/v1/image/style/properties/807935/La-Zoire-Women-Tops_1_ebbbac2b1b154db3f368aa08e9c86d5f.jpg",
+              "brand": "La Zoire",
+              "product": "Animal Print Ruffled Top",
+              "price": 559,
+              "strike": 699,
+              "discount": "(20% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/9964729/2019/8/2/f8db88d9-4442-42e4-abc2-9050f3f824a61564742831005-plusS-Women-Pink--Black-A-Line-Dress-51564742829443-1.jpg",
+              "brand": "plusS",
+              "product": "Animal A-Line Keyhole Neck Dress",
+              "price": 531,
+              "strike": 1899,
+              "discount": "(72% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21235450/2022/12/17/9dd7b2ff-b78f-4268-8c82-7a09258e22071671296044255Shirts1.jpg",
+              "brand": "Tokyo Talkies",
+              "product": "Women Floral Casual Shirt",
+              "price": 349,
+              "strike": 999,
+              "discount": "(65% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20484348/2022/11/10/920bc78a-5d2e-4765-893b-17aa622b8e931668060075149-Berrylush-Women-Pink-Floral-Printed-Cami-Top--Tie-Front-Shor-1.jpg",
+              "brand": "Berrylush",
+              "product": "Printed Top with  Shorts",
+              "price": 1184,
+              "strike": 3200,
+              "discount": "(63% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20506930/2022/10/26/7089f644-36ce-4df3-9fda-872b32b39f4a1666748019867FrempyPinkFloralCrepeMaternityA-LineMidiDress1.jpg",
+              "brand": "Frempy",
+              "product": "Floral Crepe A-Line Midi Dress",
+              "price": 794,
+              "strike": 2490,
+              "discount": "( 1696 OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21460612/2023/1/7/8bcba50c-a2b9-4cb3-a3d7-8395d5e266931673110253222CottonT-shirt1.jpg",
+              "brand": "H&M",
+              "product": "Women Pure Cotton T-shirt",
+              "price": "",
+              "strike": "",
+              "discount": ""
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21400392/2023/1/18/3d3def92-91a4-4221-b565-de173d1fe8a11674024320496-T-Shirt-2451674024319990-1.jpg",
+              "brand": "Levis",
+              "product": "Women Pure Cotton T-shirt",
+              "price": 659,
+              "strike": 1099,
+              "discount": "(40% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21808310/2023/2/2/0f79cd9e-0adf-4101-bc79-246dd15b9a151675333892324Tops1.jpg",
+              "brand": "Darzi",
+              "product": "Shirt Collar Crop Top",
+              "price": 599,
+              "strike": 1199,
+              "discount": "( 600 OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18390294/2022/7/15/45c424df-5a90-4a91-a6a0-703647f78e501657867835290-Berrylush-Pink--Off-White-Floral-One-Shoulder-Crepe-Bodycon--1.jpg",
+              "brand": "Berrylush",
+              "product": "Floral Noughties Spaghetti Dress",
+              "price": 390,
+              "strike": 2299,
+              "discount": "(83% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20187328/2023/1/13/775b698c-9ed1-4500-992f-32ce6369230d1673605437635-The-Souled-Store-Women-Typography-Printed-Pure-Cotton-Oversi-11.jpg",
+              "brand": "The Souled Store",
+              "product": "Women Typography Printed T-shirt",
+              "price": 504,
+              "strike": 1499,
+              "discount": "( 995 OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16193056/2021/12/7/43934340-fc80-4c18-bad2-e29bf75164e21638872096023-Cottinfab-Women-Pink--White-Cotton-Striped-Front-Open-Blazer-1.jpg",
+              "brand": "Cottinfab",
+              "product": "Striped Front Open Blazer",
+              "price": 974,
+              "strike": 2499,
+              "discount": "(61% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16642636/2021/12/29/03785387-70aa-43ce-9cbb-5f7f49ecdc811640793440359Dresses1.jpg",
+              "brand": "Tokyo Talkies",
+              "product": "Wrap Midi Dress",
+              "price": 989,
+              "strike": 2199,
+              "discount": "(55% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18424300/2022/5/25/0b65610e-2072-4a77-a17f-7a720e6b2d0a1653461856329Dresses1.jpg",
+              "brand": "SHEETAL Associates",
+              "product": "Crepe Maxi Dress",
+              "price": 399,
+              "strike": 1999,
+              "discount": "(80% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17143248/2022/2/12/e51a56b8-79d5-42d1-b9f3-945dffcada0f1644663489478TokyoTalkiesPinkTieandDyeMidiDress1.jpg",
+              "brand": "Tokyo Talkies",
+              "product": "Tie and Dye Dress",
+              "price": 759,
+              "strike": 2449,
+              "discount": "(69% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19797862/2022/10/14/b9e0c91f-3f80-4bfb-be69-61b59d22816a1665737873578-PUMA-Lightweight-Padded-Womens-Jacket-1341665737872955-1.jpg",
+              "brand": "Puma",
+              "product": "Women Outdoor Puffer Jacket",
+              "price": 2449,
+              "strike": 6999,
+              "discount": "(65% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13191702/2020/12/9/04fcb3b9-9269-4e66-bd63-a87e41d302cb1607524725975-Berrylush-Women-Pink-Printed-Sheath-Dress-9651607524724093-1.jpg",
+              "brand": "Berrylush",
+              "product": "Printed Sheath Dress",
+              "price": 284,
+              "strike": 1499,
+              "discount": "(81% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21551816/2023/1/14/12c75799-af1a-409f-a6c4-b8af9e06f3a21673695779537Tops1.jpg",
+              "brand": "Madame",
+              "product": "Tie- Up Cotton Top",
+              "price": 909,
+              "strike": 1299,
+              "discount": "(30% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20707530/2022/11/22/a637b064-5bf5-4b47-9ee7-75ca245383971669098357745-MANGO-Pink-Sustainable-Tie-Up-Neck-A-Line-Midi-Dress-1341669-1.jpg",
+              "brand": "MANGO",
+              "product": "Sustainable A-Line Midi Dress",
+              "price": 2874,
+              "strike": 4790,
+              "discount": "(40% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18904456/2022/9/16/6b1adf9b-04ec-4b47-a4e2-03edd70159721663300563298-Levis-Women-Pink-Solid-Relaxed-Fit-Hooded-Sweatshirt-6281663-1.jpg",
+              "brand": "Levis",
+              "product": "Women Relaxed Hood Sweatshirt",
+              "price": 3059,
+              "strike": 3599,
+              "discount": "(15% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10968546/2020/1/23/567478d2-4fe3-455d-ae5e-06d58834d52c1579777058075-Roadster-Women-Tshirts-9991579777056568-1.jpg",
+              "brand": "Roadster",
+              "product": "Printed Round Neck Pure Cotton T-shirt",
+              "price": 404,
+              "strike": 899,
+              "discount": "(55% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21049236/2022/12/9/8cba46d3-1ad7-49fc-872c-f9a704a8312e1670587048082-Berrylush-Women-Pink-Solid-Long-Sleeve-Casual-Shirt-90216705-1.jpg",
+              "brand": "Berrylush",
+              "product": "Casual Shirt",
+              "price": 367,
+              "strike": 1049,
+              "discount": "(65% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21790550/2023/2/1/f15505b3-5be1-41c6-bb4a-ae7f6dff78221675236185556DarziPinkT-shirtMiniDress1.jpg",
+              "brand": "Darzi",
+              "product": "Mini Sheath Dress",
+              "price": 599,
+              "strike": 1499,
+              "discount": "( 900 OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17629072/2022/3/24/1c12c23d-a11d-4c87-a62b-9741927428201648114975054LEBOURGEOISPinkCropTop1.jpg",
+              "brand": "LE BOURGEOIS",
+              "product": "Women Solid Crop Top",
+              "price": 399,
+              "strike": 999,
+              "discount": "(60% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18904284/2022/9/16/b765e2b8-5b11-47c2-b40d-a7ba9a53178c1663300474713-Levis-Women-Pink-Solid-Quilted-Sweatshirt-7411663300474179-1.jpg",
+              "brand": "Levis",
+              "product": "Women Quilted Sweatshirt",
+              "price": 2319,
+              "strike": 2899,
+              "discount": "(20% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13510846/2021/4/26/eac306f5-af1c-4cb5-b2fc-c3b73081a3341619432330297-Puma-Women-Tops-6761619432329328-1.jpg",
+              "brand": "Puma",
+              "product": "Women Solid Active Tank Top",
+              "price": 649,
+              "strike": 1299,
+              "discount": "(50% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16337704/2021/12/2/d4c9a6e9-991a-4c05-9795-a51f3ae150041638440766978TokyoTalkiesWomenRoseJeans1.jpg",
+              "brand": "Tokyo Talkies",
+              "product": "Women Jeans",
+              "price": 647,
+              "strike": 1749,
+              "discount": "(63% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13738182/2021/7/5/ae19d5f2-c171-4cef-baf7-360007dcf72c1625487089028-VENI-VIDI-VICI-Fuschia--Frilled-Tie-Back-Top-687162548708858-1.jpg",
+              "brand": "Veni Vidi Vici",
+              "product": "Ruffled Crop Top",
+              "price": 351,
+              "strike": 1170,
+              "discount": "(70% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/8400021/2019/3/2/b46b9e24-a731-4183-858f-f17a762eba8e1551524396425-Kook-N-Keech-Women-Pink-Printed-Round-Neck-T-shirt-256155152-1.jpg",
+              "brand": "Kook N Keech",
+              "product": "Printed Round Neck Pure Cotton T-shirt",
+              "price": 359,
+              "strike": 899,
+              "discount": "(60% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17111588/2022/6/24/db58106e-60f4-4717-aba8-fcd11f2fade01656052479291-Moda-Rapido-Women-Pink--Black-Animal-Print-Drop-Shoulder-Sle-1.jpg",
+              "brand": "Moda Rapido",
+              "product": "Women Printed T-shirt",
+              "price": 329,
+              "strike": 1099,
+              "discount": "(70% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10440504/2019/10/24/381c015a-edf3-4135-ac94-0df8386ce8af1571918834847-DressBerry-Women-Trousers-3591571918831599-1.jpg",
+              "brand": "DressBerry",
+              "product": "Women Trousers",
+              "price": 737,
+              "strike": 1799,
+              "discount": "(59% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21616570/2023/1/19/c0b938fc-fc82-4748-9cee-e1323ab575501674128181682Tshirts1.jpg",
+              "brand": "plusS",
+              "product": "Women Plus Size Cotton T-shirt",
+              "price": 350,
+              "strike": 700,
+              "discount": "(50% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13778146/2021/6/18/9ede6ac2-722c-4360-96b4-8590628f50ab1624015514546-DressBerry-Women-Tshirts-8381624015514102-1.jpg",
+              "brand": "DressBerry",
+              "product": "Ribbed Cropped Top",
+              "price": 554,
+              "strike": 1499,
+              "discount": "(63% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19656044/2022/11/4/9145f618-76d0-4c77-96e3-0abd0097e06b1667559331571-Libas-Pink-Embellished-Basic-Jumpsuit-9221667559330898-1.jpg",
+              "brand": "Libas",
+              "product": "Self-Design All That Glitters Jumpsuit",
+              "price": 1599,
+              "strike": 3999,
+              "discount": "(60% OFF)"
+            },
+            {
+              "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15954010/2021/10/30/587c6bc9-4add-4c2f-aa7b-a53c6a9616791635581148406TokyoTalkiesPinkA-LineDress1.jpg",
+              "brand": "Tokyo Talkies",
+              "product": "A-Line Dress",
+              "price": 519,
+              "strike": 1299,
+              "discount": "(60% OFF)"
+            }
+          ]
+      ]
+}
