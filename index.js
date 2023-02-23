@@ -6,11 +6,11 @@ const { womenRouter } = require('./Routes/Women.routes');
 const { bagRouter } = require('./Routes/Bag.routes');
 const cors = require('cors');
 
-
+dotenv.config();
 const app = express();
 
+
 app.use(express.json());
-dotenv.config();
 
 
 app.use(cors({
