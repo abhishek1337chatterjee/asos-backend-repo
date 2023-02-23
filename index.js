@@ -15,6 +15,7 @@ app.use(cors({
 const dotenv = require('dotenv');
 const { connection } = require('./configs/db');
 const { menRouter } = require('./Routes/Men.routes');
+const { womenRouter } = require('./Routes/Women.routes');
 
 dotenv.config();
 
@@ -23,6 +24,7 @@ app.get("/", (req, res) => {
 })
 
 app.use("/men", menRouter)
+app.use("/women", womenRouter)
 
 app.listen(process.env.port, async()=>{
     try {
