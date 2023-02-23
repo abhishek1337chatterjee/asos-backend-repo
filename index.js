@@ -1,32 +1,30 @@
-
-
 const express = require('express');
-
-const app = express();
-
-app.use(express.json());
-
-const cors = require('cors');
-
-app.use(cors({
-    origin: "*"
-}))
-
 const dotenv = require('dotenv');
 const { connection } = require('./configs/db');
 const { menRouter } = require('./Routes/Men.routes');
 const { womenRouter } = require('./Routes/Women.routes');
 const { bagRouter } = require('./Routes/Bag.routes');
+const cors = require('cors');
 
+
+const app = express();
+
+app.use(express.json());
 dotenv.config();
+
+
+app.use(cors({
+    origin: "*"
+}))
+app.use("/men", menRouter)
+app.use("/women", womenRouter)
+app.use("/bag", bagRouter)
+
 
 app.get("/", (req, res) => {
     res.send("Welcome to ASOS database");
 })
 
-app.use("/men", menRouter)
-app.use("/women", womenRouter)
-app.use("/bag", bagRouter)
 
 app.listen(process.env.port, async()=>{
     try {
