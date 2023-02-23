@@ -19,7 +19,6 @@ womenRouter.get("/", async (req, res) => {
         console.log('err:', err)
     }
 })
-
 womenRouter.get("/black", async (req, res) => {
     const {min,max} = req.query
     try{
@@ -29,7 +28,6 @@ womenRouter.get("/black", async (req, res) => {
         console.log('err:', err)
     }
 })
-
 womenRouter.get("/blue", async (req, res) => {
     const {min,max} = req.query
     try{
@@ -39,7 +37,6 @@ womenRouter.get("/blue", async (req, res) => {
         console.log('err:', err)
     }
 })
-
 womenRouter.get("/pink", async (req, res) => {
     const {min,max} = req.query
     try{
@@ -49,7 +46,37 @@ womenRouter.get("/pink", async (req, res) => {
         console.log('err:', err)
     }
 })
+// -------------------------------------------------------------------
 
+womenRouter.post("/", async (req, res) => {
+    let payload = req.body
+    try{
+        let data = new WomenModel(payload)
+        await data.save();
+        res.send("Data Sent successfully!")
+    }catch(err){
+        console.log('err:', err)
+    }
+})
+womenRouter.patch("/:id", async (req, res) => {
+    let ID = req.params.id
+    let payload = req.body
+    try{
+        let data = await WomenModel.findByIdAndUpdate({_id:ID},payload)
+        res.send("Data Updated successfully!")
+    }catch(err){
+        console.log('err:', err)
+    }
+})
+womenRouter.delete("/:id", async (req, res) => {
+    let ID = req.params.id
+    try{
+        let data = await WomenModel.findByIdAndDelete({_id:ID})
+        res.send("Data Deleted successfully!")
+    }catch(err){
+        console.log('err:', err)
+    }
+})
 
 module.exports = {
     womenRouter

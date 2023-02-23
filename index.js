@@ -16,6 +16,7 @@ const dotenv = require('dotenv');
 const { connection } = require('./configs/db');
 const { menRouter } = require('./Routes/Men.routes');
 const { womenRouter } = require('./Routes/Women.routes');
+const { bagRouter } = require('./Routes/Bag.routes');
 
 dotenv.config();
 
@@ -25,6 +26,7 @@ app.get("/", (req, res) => {
 
 app.use("/men", menRouter)
 app.use("/women", womenRouter)
+app.use("/bag", bagRouter)
 
 app.listen(process.env.port, async()=>{
     try {

@@ -49,6 +49,37 @@ menRouter.get("/red", async (req, res) => {
         console.log('err:', err)
     }
 })
+// ------------------------------------------------------------------
+
+menRouter.post("/", async (req, res) => {
+    let payload = req.body
+    try{
+        let data = new MenModel(payload)
+        await data.save();
+        res.send("Data Sent successfully!")
+    }catch(err){
+        console.log('err:', err)
+    }
+})
+menRouter.patch("/:id", async (req, res) => {
+    let ID = req.params.id
+    let payload = req.body
+    try{
+        let data = await MenModel.findByIdAndUpdate({_id:ID},payload)
+        res.send("Data Updated successfully!")
+    }catch(err){
+        console.log('err:', err)
+    }
+})
+menRouter.delete("/:id", async (req, res) => {
+    let ID = req.params.id
+    try{
+        let data = await MenModel.findByIdAndDelete({_id:ID})
+        res.send("Data Deleted successfully!")
+    }catch(err){
+        console.log('err:', err)
+    }
+})
 
 
 
