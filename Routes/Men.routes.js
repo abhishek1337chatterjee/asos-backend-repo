@@ -137,6 +137,7 @@ menRouter.delete("/:id", async (req, res) => {
     }catch(err){
         console.log('err:', err)
     }
+    
 })
 
 
