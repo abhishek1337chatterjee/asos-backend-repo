@@ -1,13 +1,13 @@
 const express = require('express');
+const cors = require('cors');
 const dotenv = require('dotenv');
+const { connections } = require('./configs/db'); 
 const { menRouter } = require('./Routes/Men.routes');
 const { womenRouter } = require('./Routes/Women.routes');
 const { bagRouter } = require('./Routes/Bag.routes');
-const cors = require('cors');
-const { connections } = require('./configs/db');
 
-dotenv.config();
 const app = express();
+dotenv.config();
 
 
 app.use(express.json());
