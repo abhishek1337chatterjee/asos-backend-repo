@@ -31,7 +31,7 @@ menRouter.get("/", async (req, res) => {
         console.log('err:', err)
     }
 })
-menRouter.get("/:id", async (req, res) => {
+menRouter.get("/single/:id", async (req, res) => {
     const ID = req.params.id
     try{
         let data = await MenModel.find({_id:ID})
@@ -41,10 +41,40 @@ menRouter.get("/:id", async (req, res) => {
         console.log('err:', err)
     }
 })
+menRouter.get("/black/single/:id", async (req, res) => {
+    const ID = req.params.id
+    try{
+        let data = await MenBlackModel.find({_id:ID})
+        res.send(data)
+    }catch(err){
+        res.send(err.message)
+        console.log('err:', err)
+    }
+})
+menRouter.get("/green/single/:id", async (req, res) => {
+    const ID = req.params.id
+    try{
+        let data = await MenGreenModel.find({_id:ID})
+        res.send(data)
+    }catch(err){
+        res.send(err.message)
+        console.log('err:', err)
+    }
+})
+menRouter.get("/red/single/:id", async (req, res) => {
+    const ID = req.params.id
+    try{
+        let data = await MenRedModel.find({_id:ID})
+        res.send(data)
+    }catch(err){
+        res.send(err.message)
+        console.log('err:', err)
+    }
+})
 menRouter.get("/black", async (req, res) => {
-    const {min,max} = req.query
+    let {min,max} = req.query
     min=min || 1
-    max=max || 100000
+    max=max || 10000
     try{
         let data = await MenBlackModel.find({$and:[{price:{$gte:min}},{price:{$lte:max}}]})
         res.send(data)
@@ -54,7 +84,7 @@ menRouter.get("/black", async (req, res) => {
     }
 })
 menRouter.get("/green", async (req, res) => {
-    const {min,max} = req.query
+    let {min,max} = req.query
     min=min || 1
     max=max || 100000
     try{
@@ -66,7 +96,7 @@ menRouter.get("/green", async (req, res) => {
     }
 })
 menRouter.get("/red", async (req, res) => {
-    const {min,max} = req.query
+    let {min,max} = req.query
     min=min || 1
     max=max || 100000
     try{
@@ -110,16 +140,6 @@ menRouter.delete("/:id", async (req, res) => {
 })
 
 
-
-menRouter.post("/try", async (req, res) => {
-    let payload = req.body.data
-    try{
-        let data = await WomenPinkModel.insertMany(payload)
-        res.send("Data Sent successfully!")
-    }catch(err){
-        console.log('err:', err)
-    }
-})
 module.exports = {
     menRouter
 }
