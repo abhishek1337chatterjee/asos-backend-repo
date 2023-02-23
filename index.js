@@ -25,7 +25,6 @@ app.get("/", (req, res) => {
     res.send("Welcome to ASOS database");
 })
 
-
 app.listen(process.env.port, async()=>{
     try {
         await connections;
