@@ -2,7 +2,7 @@ const express = require('express');
 const { MenModel } = require('../Models/Men.model');
 const { MenBlackModel } = require('../Models/MenBlack.model');
 const { MenGreenModel } = require('../Models/MenGreen.model');
-const { MenRedModel } = require('../Models/Menred.model');
+const { MenRedModel } = require('../Models/MenRed.model');
 
 
 
