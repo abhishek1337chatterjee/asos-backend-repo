@@ -1,0 +1,404 @@
+{
+    "data": [
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20242460/2022/10/1/3f31abf7-a702-466e-bbf9-886fae268ccd1664599835571Canvascargotrousers4.jpg",
+          "brand": "H&M",
+          "product": "Women Canvas Cargo Trousers",
+          "price": "",
+          "strike": "",
+          "discount": ""
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19091780/2022/8/9/5f354f24-892a-4e58-a984-3b094b1bec551660029998561-Berrylush-Women-Tops-8201660029998145-1.jpg",
+          "brand": "Berrylush",
+          "product": "Floral Asymmetry Top",
+          "price": 169,
+          "strike": 1699,
+          "discount": "(90% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/10/11/f3b7eb35-ea09-4bd6-b0e7-9de4157b14bd1602370012077-1.jpg",
+          "brand": "KASSUALLY",
+          "product": "Women Trousers",
+          "price": 799,
+          "strike": 1599,
+          "discount": "(50% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20380974/2022/10/13/f6493924-0a5d-4378-a1b9-5a8688f280021665645281402AthenaTealThreePieceBlazerCo-Ordset1.jpg",
+          "brand": "Athena",
+          "product": "Women Three Piece Blazer Co-Ord set",
+          "price": 1994,
+          "strike": 3499,
+          "discount": "(43% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18962952/2022/7/18/cba9c9aa-86bd-46a4-8882-859a5587c6161658131220271-Athena-Lavender-V-Neck-blingy--Dress-8311658131219837-1.jpg",
+          "brand": "Athena",
+          "product": "Accordion Pleats Wrap Dress",
+          "price": 1259,
+          "strike": 2799,
+          "discount": "(55% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19259882/2022/7/26/f7ff60de-c0df-4978-b29a-b40223d0239b1658838761314Jeans1.jpg",
+          "brand": "Kotty",
+          "product": "Women Straight Fit High-Rise Jeans",
+          "price": 839,
+          "strike": 1999,
+          "discount": "(58% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15577328/2021/10/19/3f477c11-9550-4db8-b360-7621b5fddd9b1634625769534-Antheaa-Women-Dresses-7701634625767867-1.jpg",
+          "brand": "Antheaa",
+          "product": "Smocked Tiered Midi Dress",
+          "price": 1079,
+          "strike": 2399,
+          "discount": "(55% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14955258/2021/8/13/bdd3c54a-1b58-4240-8dbd-9f84d4a855e61628847817605-Roadster-Women-Track-Pants-1191628847816895-1.jpg",
+          "brand": "Roadster",
+          "product": "Women Straight Fit Joggers",
+          "price": 559,
+          "strike": 1399,
+          "discount": "(60% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19460432/2022/8/10/7c0b04d1-a274-4b81-87b7-c8f0e03166591660119676404Trousers1.jpg",
+          "brand": "Kotty",
+          "product": "Women Straight Fit High-Rise Trousers",
+          "price": 539,
+          "strike": 1999,
+          "discount": "(73% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/10/21/95e707ae-0c5d-45ac-8cf4-43545f945abf1603233250156-1.jpg",
+          "brand": "Berrylush",
+          "product": "Floral Print Dress",
+          "price": 249,
+          "strike": 1665,
+          "discount": "(85% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20380970/2022/10/13/cc0895cc-cfb4-4338-bfa7-dac4313959221665645066309AthenaMaroonThreePieceBlazerCo-Ordset1.jpg",
+          "brand": "Athena",
+          "product": "Women 3 Piece Blazer Co-Ords Set",
+          "price": 1994,
+          "strike": 3499,
+          "discount": "(43% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/9552603/2022/5/20/a5b42476-d64a-49a4-a95c-54853b8148981653026711165-SASSAFRAS-Women-Black-Slim-Fit-Mid-Rise-Clean-Look-Stretchab-4.jpg",
+          "brand": "SASSAFRAS",
+          "product": "Women Slim Fit Cropped Jeans",
+          "price": 839,
+          "strike": 1999,
+          "discount": "(58% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12222102/2020/8/13/d47d5955-064d-4d81-a88f-52524d2f299a1597298540090-SASSAFRAS-Women-Black-Regular-Fit-Solid-Wide-Leg-Track-Pants-1.jpg",
+          "brand": "SASSAFRAS",
+          "product": "Women Regular Wide Track Pants",
+          "price": 674,
+          "strike": 1499,
+          "discount": "(55% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21748490/2023/1/30/7e845576-99aa-4885-a6bf-eb46bcb69f2f1675050463107ATUNWomenFuchsiaRelaxedPartyShirt1.jpg",
+          "brand": "A.T.U.N.",
+          "product": "Women Spread Collar Shirt",
+          "price": 799,
+          "strike": 3999,
+          "discount": "(80% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/11/7/bdd09925-e2b7-431a-ba49-8fcc9b688ff51573148802565-1.jpg",
+          "brand": "DOLCE CRUDO",
+          "product": "Women Skinny Fit Jeans",
+          "price": 911,
+          "strike": 2399,
+          "discount": "(62% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18903300/2022/11/18/c3d441f5-6718-4fce-b288-7af52522517b1668747830953-Levis-Women-Black-Super-Skinny-Fit-High-Rise-Stretchable-Jea-1.jpg",
+          "brand": "Levis",
+          "product": "Women Super Skinny Fit High-Rise Jeans",
+          "price": 3279,
+          "strike": 4099,
+          "discount": "(20% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21401628/2023/1/3/46fa6464-1496-495d-abed-7edfdac2e4831672759032435AASKPurpleFloralCrepeShirtMidiDress1.jpg",
+          "brand": "AASK",
+          "product": "Floral Crepe Midi Dress",
+          "price": 869,
+          "strike": 2899,
+          "discount": "(70% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21394918/2023/1/3/6d41036e-3f87-47a1-90c7-563af5dd41111672719076481AthenaMaroonRoundNeckShirtDenimDress1.jpg",
+          "brand": "Athena",
+          "product": "Denim Cotton Sheath Dress",
+          "price": 1483,
+          "strike": 2799,
+          "discount": "(47% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19513188/2023/1/18/0f6e9855-c787-42a1-b8d8-f199e887a5351674040843158-Stylecast-X-Hersheinbox-Flared-Sleeve-Ruched-Satin-Shirt-Dre-1.jpg",
+          "brand": "Stylecast X Hersheinbox",
+          "product": "Satin Shirt Dress",
+          "price": 658,
+          "strike": 1316,
+          "discount": "(50% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12384822/2020/9/1/3901ed9b-db0c-4056-817d-a518ac01a0691598947696216KottyWomenBlackWideLegJeans1.jpg",
+          "brand": "Kotty",
+          "product": "Women Wide Leg Jeans",
+          "price": 839,
+          "strike": 1999,
+          "discount": "(58% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10106141/2019/8/28/9f826332-d9bf-496b-95ba-400ab75bf6c91566967519967-HRX-by-Hrithik-Roshan-Women-Tshirts-9091566967518491-1.jpg",
+          "brand": "HRX by Hrithik Roshan",
+          "product": "Printed Boxy Lifestyle Pure Cotton T-shirt",
+          "price": 539,
+          "strike": 899,
+          "discount": "(40% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20225660/2022/9/30/199f654c-afdc-4357-9563-f865e3f6056c1664523157455Widetwilltrousers4.jpg",
+          "brand": "H&M",
+          "product": "Woman Wide twill trousers",
+          "price": 1169,
+          "strike": 1299,
+          "discount": "(10% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21295306/2022/12/23/f1284afc-5c92-45ee-a120-2db6d196c4381671809190214NoBarrWomensCottonSlimFitBlackJegging1.jpg",
+          "brand": "NoBarr",
+          "product": "Women Slim Fit Cotton Jeggings",
+          "price": 449,
+          "strike": 1250,
+          "discount": "( 801 OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17964866/2022/4/21/f41008f5-ca47-4912-923e-bf5f61289e9e1650514395490CottonT-shirt1.jpg",
+          "brand": "H&M",
+          "product": "Cotton T-shirt",
+          "price": 539,
+          "strike": 599,
+          "discount": "(10% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15953952/2021/10/30/332b60de-de51-4efd-8d73-9f6477f819fe1635581122649TokyoTalkiesYellowFloralDress1.jpg",
+          "brand": "Tokyo Talkies",
+          "product": "Floral Dress",
+          "price": 395,
+          "strike": 1099,
+          "discount": "(64% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16542192/2022/1/10/a151dbde-96bb-43b0-b9c0-4d145ae4c5a71641798148926MagMensCottonNavyBlueKurtaWhitePajamaSetformenRG-50416-36Jac1.jpg",
+          "brand": "Cottinfab",
+          "product": "Women Shirt with Trousers",
+          "price": 1385,
+          "strike": 3299,
+          "discount": "(58% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18814504/2022/11/5/35d8025f-62d1-4cea-951d-7403acdf51b71667637530283-Berrylush-Multi-coloured-Floral-Vacay-Attire-972166763752995-1.jpg",
+          "brand": "Berrylush",
+          "product": "Floral Vacay Attire",
+          "price": 284,
+          "strike": 1499,
+          "discount": "(81% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17728868/2022/12/28/1fd60445-8f00-4dad-b04e-36b2b000a0ec1672212465233-Mast--Harbour-Women-Tshirts-8641672212464669-1.jpg",
+          "brand": "Mast & Harbour",
+          "product": "Striped Top",
+          "price": 539,
+          "strike": 899,
+          "discount": "(40% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10308613/2019/7/29/d9e6b0ed-1179-4e98-a40a-85dc2dd10fc61564378921140-SASSAFRAS-Women-Jeggings-6021564378920305-1.jpg",
+          "brand": "SASSAFRAS",
+          "product": "Women Slim Fit Solid Treggings",
+          "price": 687,
+          "strike": 1599,
+          "discount": "(57% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21382434/2023/1/2/f9415c12-65ec-4535-bdee-8f983692dc631672643246633Blazers1.jpg",
+          "brand": "KASSUALLY",
+          "product": "Single-Breasted Fleece Blazer",
+          "price": 1007,
+          "strike": 2399,
+          "discount": "(58% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17575912/2022/3/19/d2301cf2-86f2-422f-9937-c460f7a39e731647681927365SkinnyHighJeans1.jpg",
+          "brand": "H&M",
+          "product": "Women Skinny High Jeans",
+          "price": "",
+          "strike": "",
+          "discount": ""
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15338610/2021/10/19/417cfca5-58e3-48ee-aa6a-d6013eb495321634646042615-DILLINGER-Women-Tshirts-7981634646042269-1.jpg",
+          "brand": "DILLINGER",
+          "product": "Women Printed Cotton Pure Cotton T-shirt",
+          "price": 475,
+          "strike": 1399,
+          "discount": "(66% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17404904/2022/3/24/0f34412d-8a5e-48e4-867f-60c70242c7171648095855187-KVSFAB-Lemon-Green-Georgette-Sequence-Embroidery-Top-with-Fl-1.jpg",
+          "brand": "Kvsfab",
+          "product": "Self-Design Top with Solid Palazzos",
+          "price": 2879,
+          "strike": 8999,
+          "discount": "(68% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17190848/2022/5/8/8e83f545-ea3e-47f0-9b5b-e346d8cdc28a1652022870430BerrylushWomenClassicWhiteFloralBustierDress1.jpg",
+          "brand": "Berrylush",
+          "product": "Floral Bustier Dress",
+          "price": 719,
+          "strike": 1799,
+          "discount": "(60% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16311340/2021/12/23/35a9aa67-3fbb-4ebd-988c-5ddfa26f9a691640263285325-STREET-9-Women-Tops-7911640263284810-1.jpg",
+          "brand": "STREET 9",
+          "product": "Solid Cropped Top",
+          "price": 645,
+          "strike": 1699,
+          "discount": "(62% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20437932/2022/10/17/135f8909-775b-4433-8aef-3682b0658d231666018443286AthenaLightpinksweatheartneckPeplumco-ordset1.jpg",
+          "brand": "Athena",
+          "product": "Women Solid Co-Ords",
+          "price": 1385,
+          "strike": 3299,
+          "discount": "(58% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13889082/2022/11/6/2e111198-6574-4d93-a7f6-bd6fc85700fd1667718066323PumaWomenBlackGraphic6SolidRegularFitTrackPants1.jpg",
+          "brand": "Puma",
+          "product": "Women Graphic 6 Track Pants",
+          "price": 1499,
+          "strike": 2499,
+          "discount": "(40% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12742100/2023/1/4/cc266537-bdcb-434a-91ac-e336e1dad7271672829746782-KASSUALLY-Women-Black--Pink-Printed-Basic-Jumpsuit-461167282-1.jpg",
+          "brand": "KASSUALLY",
+          "product": "Printed Basic Jumpsuit",
+          "price": 879,
+          "strike": 2199,
+          "discount": "(60% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2018/12/29/5e48c3c3-d5f6-4cf9-bd48-c626ef3e07391546077391596-1.jpg",
+          "brand": "Berrylush",
+          "product": "Solid Bardot Top",
+          "price": 258,
+          "strike": 1290,
+          "discount": "(80% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15599320/2022/4/28/c06a6b1a-4e0b-43ed-ad2e-394b588a0d8b1651144480179-Difference-of-Opinion-Women-Black-Conversational-Printed-Pur-1.jpg",
+          "brand": "Difference of Opinion",
+          "product": "Printed Cotton T-shirt",
+          "price": 545,
+          "strike": 1399,
+          "discount": "(61% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19259884/2022/7/26/c093f927-3cc6-4347-90b4-85b8089fd3a31658839615457Jeans1.jpg",
+          "brand": "Kotty",
+          "product": "Women Straight Fit  Jeans",
+          "price": 819,
+          "strike": 1999,
+          "discount": "(59% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20437912/2022/10/17/13212968-2394-4d4b-a2e6-e826d096b2c41666015592517AthenaNavyBluetrenchcollarco-ordsetwithbelt1.jpg",
+          "brand": "Athena",
+          "product": "Women Solid Co-Ords",
+          "price": 1484,
+          "strike": 3299,
+          "discount": "(55% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21064874/2022/12/3/24f0ac9b-5d6c-45f3-862e-d5554257c75e1670092058282Shrug1.jpg",
+          "brand": "Azira",
+          "product": "Women Printed Shrug",
+          "price": 699,
+          "strike": 1399,
+          "discount": "(50% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17706920/2022/4/1/54a9291e-50dd-4ebd-af57-cb1d0e6a5ed51648789057258TokyoTalkiesWomenCoralFlaredTrousers1.jpg",
+          "brand": "Tokyo Talkies",
+          "product": "Women Regular Flared Trousers",
+          "price": 439,
+          "strike": 1099,
+          "discount": "(60% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15598180/2022/2/4/0cae0b47-0ae6-4bec-aa2f-a00a5624c3a11643957685405-DILLINGER-Women-Navy-Blue-Typography-Printed-Pure-Cotton-Loo-1.jpg",
+          "brand": "DILLINGER",
+          "product": "Women Pure Cotton T-shirt",
+          "price": 491,
+          "strike": 1199,
+          "discount": "(59% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13914324/2022/11/21/4a176b7f-1e66-4b24-9186-fed346c8d3241669011620973-plusS-Green-Polka-Dots-Printed-A-Line-Dress-1371669011620347-1.jpg",
+          "brand": "plusS",
+          "product": "Polka Dots A-Line Dress",
+          "price": 335,
+          "strike": 1599,
+          "discount": "(79% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22002608/2023/2/16/469fc809-3587-4c05-becf-44da74208dde1676549902827BewakoofWomenPurpleCheckedHighNeckAppliqueT-shirt1.jpg",
+          "brand": "Bewakoof",
+          "product": "Cotton Relaxed Fit T-shirt",
+          "price": 449,
+          "strike": 1249,
+          "discount": "( 800 OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19040144/2022/8/17/fe31ed52-9eda-4123-a704-dc39e0bad6011660707701748ADDYVEROWomenBlackHigh-RiseEasyWashTrousers1.jpg",
+          "brand": "ADDYVERO",
+          "product": "Women High-Rise Trousers",
+          "price": 543,
+          "strike": 1699,
+          "discount": "(68% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/12/17/fa195744-12a1-478f-afa1-0e0e6e0a9f8c1608195868579-1.jpg",
+          "brand": "High Star",
+          "product": "Women Bootcut Jeans",
+          "price": 769,
+          "strike": 1099,
+          "discount": "(30% OFF)"
+        },
+        {
+          "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1688043/2019/5/22/255bf9f5-f5aa-463a-bfec-284b909e96561558519949079-SASSAFRAS-Women-Black-Solid-Smart-Fit-Flat-Front-Trousers-53-1.jpg",
+          "brand": "SASSAFRAS",
+          "product": "Women Parallel Trousers",
+          "price": 559,
+          "strike": 1399,
+          "discount": "(60% OFF)"
+        }
+      ]
+}
