@@ -3,11 +3,6 @@ const { MenModel } = require('../Models/Men.model');
 const { MenBlackModel } = require('../Models/MenBlack.model');
 const { MenGreenModel } = require('../Models/MenGreen.model');
 const { MenRedModel } = require('../Models/MenRed.model');
-const { WomenModel } = require('../Models/Women.model');
-const { WomenBlackModel } = require('../Models/WomenBlack.model');
-const { WomenBlueModel } = require('../Models/WomenBlue.model');
-const { WomenPinkModel } = require('../Models/WomenPink.model');
-
 
 
 
@@ -72,8 +67,11 @@ menRouter.get("/red/single/:id", async (req, res) => {
     }
 })
 menRouter.get("/black", async (req, res) => {
+    let {min,max} = req.query
+    min=min || 1
+    max=max || 100000
     try{
-        let data = await MenBlackModel.find()
+        let data = await MenBlackModel.find({$and:[{price:{$gte:min}},{price:{$lte:max}}]})
         res.send(data)
     }catch(err){
         res.send(err.message)
@@ -137,17 +135,10 @@ menRouter.delete("/:id", async (req, res) => {
     
 })
 
-menRouter.post("/try", async (req, res) => {
-    let payload = req.body.data
-    try{
-        let data = MenBlackModel.insertMany(payload)
-        res.send("Data Sent successfully!")
-    }catch(err){
-        console.log('err:', err)
-    }
-})
+
 
 
 module.exports = {
     menRouter
 }
+

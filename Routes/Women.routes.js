@@ -1,14 +1,9 @@
-
-
 const express = require('express');
 const { WomenModel } = require('../Models/Women.model');
 const { WomenBlackModel } = require('../Models/WomenBlack.model');
 const { WomenBlueModel } = require('../Models/WomenBlue.model');
 const { WomenPinkModel } = require('../Models/WomenPink.model');
-
 const womenRouter = express.Router();
-
-
 
 womenRouter.get("/", async (req, res) => {
     let {search,min,max} = req.query
